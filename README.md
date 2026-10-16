@@ -65,7 +65,7 @@
 <h1>Работы</h1>
 
 <a class="card" href="monophenomenalism.html">
-  <div class="card-title">Монофеноменализм</div>
+  <div class="card-title">Монофеноменализм </div>
   <div class="card-title-en" translate="no">Monophenomenalism</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
 </a>
