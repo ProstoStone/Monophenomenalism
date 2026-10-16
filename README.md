@@ -1,6 +1,7 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8">
+<meta name="google" content="notranslate">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Дудников Роман — Монофеноменализм и Модель явления</title>
 <meta name="description" content="Философские работы Романа Дудникова: монофеноменализм и Модель явления.">
