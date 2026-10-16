@@ -66,19 +66,19 @@
 
 <a class="card" href="monophenomenalism.html">
   <div class="card-title">Монофеноменализм</div>
-  <div class="card-title-en">Monophenomenalism</div>
+  <div class="card-title-en" translate="no">Monophenomenalism</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
 </a>
 
 <a class="card" href="model.html">
   <div class="card-title">Модель явления</div>
-  <div class="card-title-en">Model of the Phenomenon</div>
+  <div class="card-title-en" translate="no">Model of the Phenomenon</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
 </a>
 
 <a class="card" href="download.html">
   <div class="card-title">Скачать</div>
-  <div class="card-title-en">Download PDF</div>
+  <div class="card-title-en" translate="no">Download PDF</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
 </a>
 
