@@ -76,5 +76,11 @@
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
 </a>
 
+<a class="card" href="download.html">
+  <div class="card-title">Скачать</div>
+  <div class="card-title-en">Download PDF</div>
+  <div class="card-author">Дудников Роман Валентинович · 2026</div>
+</a>
+
 </body>
 </html>
