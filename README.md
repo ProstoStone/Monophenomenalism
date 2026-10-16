@@ -92,22 +92,22 @@
 <h1>Работы</h1>
 
 <div class="card">
-  <div class="card-title">Монофеноменализм</div>
-  <div class="card-title-en">Monophenomenalism</div>
-  <div class="card-author">Дудников Роман Валентинович · 2026</div>
-  <div class="actions">
-    <a class="btn btn-read" href="monophenomenalism.html">Читать</a>
-    <a class="btn btn-download" href="monophenomenalism.pdf" download>Скачать</a>
-  </div>
-</div>
-
-<div class="card">
   <div class="card-title">Модель явления</div>
   <div class="card-title-en">Model of the Phenomenon</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
   <div class="actions">
     <a class="btn btn-read" href="model.html">Читать</a>
     <a class="btn btn-download" href="model.pdf" download>Скачать</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-title">Монофеноменализм</div>
+  <div class="card-title-en">Monophenomenalism</div>
+  <div class="card-author">Дудников Роман Валентинович · 2026</div>
+  <div class="actions">
+    <a class="btn btn-read" href="monophenomenalism.html">Читать</a>
+    <a class="btn btn-download" href="monophenomenalism.pdf" download>Скачать</a>
   </div>
 </div>
 
