@@ -1,8 +1,10 @@
+<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="utf-8">
-<meta name="google" content="notranslate">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google" content="notranslate">
+<meta http-equiv="Content-Language" content="ru">
 <title>Дудников Роман — Монофеноменализм и Модель явления</title>
 <meta name="description" content="Философские работы Романа Дудникова: монофеноменализм и Модель явления.">
 <meta name="author" content="Дудников Роман Валентинович">
@@ -28,7 +30,6 @@
     letter-spacing: 0.5px;
   }
   .card {
-    display: block;
     width: 100%;
     max-width: 520px;
     padding: 28px 32px;
@@ -36,13 +37,6 @@
     background: #1c1c1c;
     border: 1px solid #333;
     border-radius: 6px;
-    text-decoration: none;
-    color: #eee;
-    transition: background 0.15s, border-color 0.15s;
-  }
-  .card:hover {
-    background: #252525;
-    border-color: #555;
   }
   .card-title {
     font-size: 20px;
@@ -58,6 +52,39 @@
   .card-author {
     font-size: 14px;
     color: #aaa;
+    margin-bottom: 20px;
+  }
+  .actions {
+    display: flex;
+    gap: 12px;
+  }
+  .btn {
+    flex: 1;
+    text-align: center;
+    padding: 10px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .btn-read {
+    background: #2a2a2a;
+    color: #eee;
+    border: 1px solid #444;
+  }
+  .btn-read:hover {
+    background: #333;
+    border-color: #666;
+  }
+  .btn-download {
+    background: #eee;
+    color: #111;
+    border: 1px solid #eee;
+  }
+  .btn-download:hover {
+    background: #ccc;
+    border-color: #ccc;
   }
 </style>
 </head>
@@ -65,23 +92,25 @@
 
 <h1>Работы</h1>
 
-<a class="card" href="monophenomenalism.html">
-  <div class="card-title">Монофеноменализм </div>
-  <div class="card-title-en" translate="no">Monophenomenalism</div>
+<div class="card">
+  <div class="card-title">Монофеноменализм</div>
+  <div class="card-title-en">Monophenomenalism</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
-</a>
+  <div class="actions">
+    <a class="btn btn-read" href="monophenomenalism.html">Читать</a>
+    <a class="btn btn-download" href="monophenomenalism.pdf" download>Скачать</a>
+  </div>
+</div>
 
-<a class="card" href="model.html">
+<div class="card">
   <div class="card-title">Модель явления</div>
-  <div class="card-title-en" translate="no">Model of the Phenomenon</div>
+  <div class="card-title-en">Model of the Phenomenon</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
-</a>
-
-<a class="card" href="download.html">
-  <div class="card-title">Скачать</div>
-  <div class="card-title-en" translate="no">Download PDF</div>
-  <div class="card-author">Дудников Роман Валентинович · 2026</div>
-</a>
+  <div class="actions">
+    <a class="btn btn-read" href="model.html">Читать</a>
+    <a class="btn btn-download" href="model.pdf" download>Скачать</a>
+  </div>
+</div>
 
 </body>
 </html>
