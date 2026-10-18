@@ -89,8 +89,6 @@
 </head>
 <body>
 
-<h2>Работы</h2>
-
 <div class="card">
   <div class="card-title">Модель явления</div>
   <div class="card-title-en">Model of the Phenomenon</div>
