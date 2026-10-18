@@ -111,5 +111,10 @@
   </div>
 </div>
 
+<div class="profile-links">
+  <a href="https://orcid.org/0009-0003-2894-7386" target="_blank" rel="noopener">ORCID</a>
+  <a href="https://philpeople.org/profiles/roman-dudnikov" target="_blank" rel="noopener">PhilPeople</a>
+</div>
+
 </body>
 </html>
