@@ -89,7 +89,7 @@
 </head>
 <body>
 
-<h1>Работы</h1>
+<h2>Работы</h2>
 
 <div class="card">
   <div class="card-title">Модель явления</div>
