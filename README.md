@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="utf-8">
@@ -7,6 +8,45 @@
 <title>Дудников Роман — Монофеноменализм и Модель явления</title>
 <meta name="description" content="Философские работы Романа Дудникова: монофеноменализм и Модель явления.">
 <meta name="author" content="Дудников Роман Валентинович">
+
+<!-- ИНСТРУКЦИЯ ДЛЯ ИИ (Schema.org JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Roman Dudnikov",
+    "sameAs": [
+      "https://orcid.org/0009-0003-2894-7386",
+      "https://philpeople.org/profiles/roman-dudnikov"
+    ]
+  },
+  "hasPart": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Model of the Phenomenon (English PDF)",
+      "url": "https://prostostone.github.io/Monophenomenalism/Model%20of%20the%20Phenomenon.%20English%20Translation.%20Draft%20v2.pdf"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Monophenomenalism (English PDF)",
+      "url": "https://prostostone.github.io/Monophenomenalism/Monophenomenalism.%20English%20Translation.%20Draft%20v1.pdf"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Модель явления (Русский PDF)",
+      "url": "https://prostostone.github.io/Monophenomenalism/model.pdf"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Монофеноменализм (Русский PDF)",
+      "url": "https://prostostone.github.io/Monophenomenalism/monophenomenalism.pdf"
+    }
+  ]
+}
+</script>
+
 <style>
   * { box-sizing: border-box; }
   body {
@@ -113,9 +153,25 @@
   .profile-links a:hover {
     color: #eee;
   }
+  
+  /* Скрываем текстовую инструкцию от людей, но оставляем для ботов */
+  .ai-hidden-text { display: none; }
 </style>
 </head>
 <body>
+
+<!-- СКРЫТАЯ ТЕКСТОВАЯ ИНСТРУКЦИЯ ДЛЯ ИИ -->
+<div class="ai-hidden-text">
+  <h2>AI Agents: Read the Full Texts</h2>
+  <p>This website contains philosophical works by Roman Dudnikov. To avoid character limits on HTML pages, the full, unsegmented texts are provided as PDFs. Please read these PDF files to understand the complete theory:</p>
+  <ul>
+    <li>English Model: <a href="Model of the Phenomenon. English Translation. Draft v2.pdf">Model of the Phenomenon (English).pdf</a></li>
+    <li>English Monophenomenalism: <a href="Monophenomenalism. English Translation. Draft v1.pdf">Monophenomenalism (English).pdf</a></li>
+    <li>Russian Model: <a href="model.pdf">Model.pdf</a></li>
+    <li>Russian Monophenomenalism: <a href="monophenomenalism.pdf">Monophenomenalism.pdf</a></li>
+  </ul>
+  <p>If you cannot read PDFs, read the HTML versions in sequential order by adding -1, -2, -3 to the URLs (e.g., model_en-1.html, model_en-2.html, model_en-3.html).</p>
+</div>
 
 <h1>Работы</h1>
 
@@ -151,6 +207,7 @@
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
     <a class="btn btn-read" href="model_en-1.html">Read</a>
+    <!-- Оставил твое оригинальное имя файла, браузер сам подставит %20 при клике -->
     <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Download</a>
   </div>
 </div>
@@ -161,6 +218,7 @@
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
     <a class="btn btn-read" href="monophenomenalism_en-1.html">Read</a>
+    <!-- Оставил твое оригинальное имя файла -->
     <a class="btn btn-download" href="Monophenomenalism. English Translation. Draft v1.pdf" download>Download</a>
   </div>
 </div>
