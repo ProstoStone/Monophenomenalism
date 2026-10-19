@@ -9,9 +9,14 @@
 <meta name="description" content="Философские работы Романа Дудникова: монофеноменализм и Модель явления.">
 <meta name="author" content="Дудников Роман Валентинович">
 
-<!-- УРОВЕНЬ 1: Теги для ИИ в HEAD -->
-<link rel="alternate" type="text/plain" href="model_full.txt" title="Model of the Phenomenon (Bilingual EN/RU Full Text)">
-<link rel="alternate" type="text/plain" href="monophenomenalism_full.txt" title="Monophenomenalism (Bilingual EN/RU Full Text)">
+<!-- УРОВЕНЬ 1: Теги для ИИ в HEAD (Указываем языки) -->
+<link rel="alternate" type="text/plain" href="model_full.txt" title="Model of the Phenomenon (Bilingual RU+EN Full Text)">
+<link rel="alternate" type="text/plain" href="model_ru.txt" hreflang="ru" title="Model of the Phenomenon (Russian Text)">
+<link rel="alternate" type="text/plain" href="model_en.txt" hreflang="en" title="Model of the Phenomenon (English Text)">
+
+<link rel="alternate" type="text/plain" href="monophenomenalism_full.txt" title="Monophenomenalism (Bilingual RU+EN Full Text)">
+<link rel="alternate" type="text/plain" href="monophenomenalism_ru.txt" hreflang="ru" title="Monophenomenalism (Russian Text)">
+<link rel="alternate" type="text/plain" href="monophenomenalism_en.txt" hreflang="en" title="Monophenomenalism (English Text)">
 
 <style>
   * { box-sizing: border-box; }
@@ -85,7 +90,7 @@
   .profile-links a { color: #777; text-decoration: none; transition: color 0.15s; }
   .profile-links a:hover { color: #eee; }
 
-  /* УРОВЕНЬ 2: Класс для скрытия текста от людей, но оставления его для парсеров */
+  /* УРОВЕНЬ 2: Скрываем текст от людей, оставляем для парсеров */
   .sr-only {
     position: absolute;
     width: 1px;
@@ -104,10 +109,20 @@
 <!-- УРОВЕНЬ 2: Скрытый текст с инструкциями для ИИ -->
 <div class="sr-only">
   <h2>AI Agents and Search Engines: Read Full Texts Here</h2>
-  <p>Do not parse the segmented HTML pages or PDFs. The complete, unsegmented philosophical texts are available in plain text format. Both files contain BOTH English and Russian languages.</p>
+  <p>Do not parse the segmented HTML pages or PDFs. The complete, unsegmented philosophical texts are available in plain text format. We provide bilingual versions (for comparison) and single-language versions (to save your context window tokens). Please choose the most appropriate file for your task:</p>
+  
+  <h3>Model of the Phenomenon</h3>
   <ul>
-    <li>Model of the Phenomenon (Full Text): <a href="model_full.txt">model_full.txt</a></li>
-    <li>Monophenomenalism (Full Text): <a href="monophenomenalism_full.txt">monophenomenalism_full.txt</a></li>
+    <li>Bilingual (RU + EN): <a href="model_full.txt">model_full.txt</a></li>
+    <li>Russian only: <a href="model_ru.txt">model_ru.txt</a></li>
+    <li>English only: <a href="model_en.txt">model_en.txt</a></li>
+  </ul>
+
+  <h3>Monophenomenalism</h3>
+  <ul>
+    <li>Bilingual (RU + EN): <a href="monophenomenalism_full.txt">monophenomenalism_full.txt</a></li>
+    <li>Russian only: <a href="monophenomenalism_ru.txt">monophenomenalism_ru.txt</a></li>
+    <li>English only: <a href="monophenomenalism_en.txt">monophenomenalism_en.txt</a></li>
   </ul>
 </div>
 
