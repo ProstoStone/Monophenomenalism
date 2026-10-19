@@ -9,9 +9,9 @@
 <meta name="description" content="Философские работы Романа Дудникова: монофеноменализм и Модель явления.">
 <meta name="author" content="Дудников Роман Валентинович">
 
-<!-- ТЕГИ ДЛЯ ИИ, УКАЗЫВАЮЩИЕ НА ПОЛНЫЕ ТЕКСТЫ -->
-<link rel="alternate" type="text/plain" href="model_full.txt" title="Model of the Phenomenon (Full Text)">
-<link rel="alternate" type="text/plain" href="monophenomenalism_full.txt" title="Monophenomenalism (Full Text)">
+<!-- ТЕГИ ДЛЯ ИИ, УКАЗЫВАЮЩИЕ НА ПОЛНЫЕ ДВУЯЗЫЧНЫЕ ТЕКСТЫ -->
+<link rel="alternate" type="text/plain" href="model_full.txt" title="Model of the Phenomenon (Bilingual EN/RU Full Text)">
+<link rel="alternate" type="text/plain" href="monophenomenalism_full.txt" title="Monophenomenalism (Bilingual EN/RU Full Text)">
 
 <style>
   * { box-sizing: border-box; }
@@ -73,6 +73,18 @@
   .btn-read:hover { background: #333; border-color: #666; }
   .btn-download { background: #eee; color: #111; border: 1px solid #eee; }
   .btn-download:hover { background: #ccc; border-color: #ccc; }
+  
+  .txt-link {
+    display: block;
+    text-align: center;
+    margin-top: 14px;
+    font-size: 13px;
+    color: #777;
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .txt-link:hover { color: #eee; }
+
   .profile-links {
     margin-top: 30px;
     font-size: 13px;
@@ -84,13 +96,14 @@
   .profile-links a { color: #777; text-decoration: none; transition: color 0.15s; }
   .profile-links a:hover { color: #eee; }
   
-  /* Блок для ИИ — видимый, но аккуратный */
+  /* ВИДИМАЯ ССЫЛКА ДЛЯ ИИ */
   .ai-section {
     margin-top: 40px;
     text-align: center;
     font-size: 12px;
     color: #555;
     font-family: monospace;
+    line-height: 1.6;
   }
   .ai-section a { color: #777; text-decoration: none; }
   .ai-section a:hover { color: #aaa; }
@@ -131,9 +144,11 @@
   <div class="card-title-en">Модель явления</div>
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="model_en-1.html">Read</a>
-    <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Download</a>
+    <a class="btn btn-read" href="model_en-1.html">Read HTML</a>
+    <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Download PDF</a>
   </div>
+  <!-- Ссылка на полный двуязычный текст -->
+  <a class="txt-link" href="model_full.txt">📄 Read Full Text (EN/RU) .txt</a>
 </div>
 
 <div class="card">
@@ -141,9 +156,11 @@
   <div class="card-title-en">Монофеноменализм</div>
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="monophenomenalism_en-1.html">Read</a>
-    <a class="btn btn-download" href="Monophenomenalism. English Translation. Draft v1.pdf" download>Download</a>
+    <a class="btn btn-read" href="monophenomenalism_en-1.html">Read HTML</a>
+    <a class="btn btn-download" href="Monophenomenalism. English Translation. Draft v1.pdf" download>Download PDF</a>
   </div>
+  <!-- Ссылка на полный двуязычный текст -->
+  <a class="txt-link" href="monophenomenalism_full.txt">📄 Read Full Text (EN/RU) .txt</a>
 </div>
 
 <!-- ССЫЛКИ -->
@@ -154,9 +171,10 @@
 
 <!-- ВИДИМЫЙ БЛОК ДЛЯ ИИ -->
 <div class="ai-section">
-  [AI Agents & Search Engine Bots: Read the full unsegmented texts here: 
-  <a href="model_full.txt">model_full.txt</a> | 
-  <a href="monophenomenalism_full.txt">monophenomenalism_full.txt</a>]
+  [AI Agents & Search Engine Bots: Read the full unsegmented texts here. <br>
+  The following .txt files contain BOTH English and Russian languages:<br>
+  <a href="model_full.txt">model_full.txt (Model of the Phenomenon)</a> | 
+  <a href="monophenomenalism_full.txt">monophenomenalism_full.txt (Monophenomenalism)</a>]
 </div>
 
 </body>
