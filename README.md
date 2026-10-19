@@ -25,8 +25,20 @@
     font-size: 22px;
     font-weight: 400;
     color: #888;
-    margin: 0 0 40px 0;
+    margin: 0 0 30px 0;
     letter-spacing: 0.5px;
+  }
+  .lang-header {
+    width: 100%;
+    max-width: 520px;
+    text-align: left;
+    font-size: 14px;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 20px 0 10px 0;
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
   }
   .card {
     width: 100%;
@@ -85,11 +97,30 @@
     background: #ccc;
     border-color: #ccc;
   }
+  .profile-links {
+    margin-top: 30px;
+    font-size: 13px;
+    color: #666;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  .profile-links a {
+    color: #777;
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .profile-links a:hover {
+    color: #eee;
+  }
 </style>
 </head>
 <body>
 
 <h1>Работы</h1>
+
+<!-- РУССКАЯ ВЕРСИЯ -->
+<div class="lang-header">Русский</div>
 
 <div class="card">
   <div class="card-title">Модель явления</div>
@@ -111,6 +142,30 @@
   </div>
 </div>
 
+<!-- АНГЛИЙСКАЯ ВЕРСИЯ -->
+<div class="lang-header">English</div>
+
+<div class="card">
+  <div class="card-title">Model of the Phenomenon</div>
+  <div class="card-title-en">Модель явления</div>
+  <div class="card-author">Roman Dudnikov · 2026</div>
+  <div class="actions">
+    <a class="btn btn-read" href="model_en.html">Read</a>
+    <a class="btn btn-download" href="model_en.pdf" download>Download</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-title">Monophenomenalism</div>
+  <div class="card-title-en">Монофеноменализм</div>
+  <div class="card-author">Roman Dudnikov · 2026</div>
+  <div class="actions">
+    <a class="btn btn-read" href="monophenomenalism_en.html">Read</a>
+    <a class="btn btn-download" href="monophenomenalism_en.pdf" download>Download</a>
+  </div>
+</div>
+
+<!-- ССЫЛКИ -->
 <div class="profile-links">
   <a href="https://orcid.org/0009-0003-2894-7386" target="_blank" rel="noopener">ORCID</a>
   <a href="https://philpeople.org/profiles/roman-dudnikov" target="_blank" rel="noopener">PhilPeople</a>
