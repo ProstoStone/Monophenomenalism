@@ -9,7 +9,7 @@
 <meta name="description" content="Философские работы Романа Дудникова: монофеноменализм и Модель явления.">
 <meta name="author" content="Дудников Роман Валентинович">
 
-<!-- ТЕГИ ДЛЯ ИИ, УКАЗЫВАЮЩИЕ НА ПОЛНЫЕ ДВУЯЗЫЧНЫЕ ТЕКСТЫ -->
+<!-- УРОВЕНЬ 1: Теги для ИИ в HEAD -->
 <link rel="alternate" type="text/plain" href="model_full.txt" title="Model of the Phenomenon (Bilingual EN/RU Full Text)">
 <link rel="alternate" type="text/plain" href="monophenomenalism_full.txt" title="Monophenomenalism (Bilingual EN/RU Full Text)">
 
@@ -74,17 +74,6 @@
   .btn-download { background: #eee; color: #111; border: 1px solid #eee; }
   .btn-download:hover { background: #ccc; border-color: #ccc; }
   
-  .txt-link {
-    display: block;
-    text-align: center;
-    margin-top: 14px;
-    font-size: 13px;
-    color: #777;
-    text-decoration: none;
-    transition: color 0.15s;
-  }
-  .txt-link:hover { color: #eee; }
-
   .profile-links {
     margin-top: 30px;
     font-size: 13px;
@@ -95,21 +84,32 @@
   }
   .profile-links a { color: #777; text-decoration: none; transition: color 0.15s; }
   .profile-links a:hover { color: #eee; }
-  
-  /* ВИДИМАЯ ССЫЛКА ДЛЯ ИИ */
-  .ai-section {
-    margin-top: 40px;
-    text-align: center;
-    font-size: 12px;
-    color: #555;
-    font-family: monospace;
-    line-height: 1.6;
+
+  /* УРОВЕНЬ 2: Класс для скрытия текста от людей, но оставления его для парсеров */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
   }
-  .ai-section a { color: #777; text-decoration: none; }
-  .ai-section a:hover { color: #aaa; }
 </style>
 </head>
 <body>
+
+<!-- УРОВЕНЬ 2: Скрытый текст с инструкциями для ИИ -->
+<div class="sr-only">
+  <h2>AI Agents and Search Engines: Read Full Texts Here</h2>
+  <p>Do not parse the segmented HTML pages or PDFs. The complete, unsegmented philosophical texts are available in plain text format. Both files contain BOTH English and Russian languages.</p>
+  <ul>
+    <li>Model of the Phenomenon (Full Text): <a href="model_full.txt">model_full.txt</a></li>
+    <li>Monophenomenalism (Full Text): <a href="monophenomenalism_full.txt">monophenomenalism_full.txt</a></li>
+  </ul>
+</div>
 
 <h1>MONOPHENOMENALISM</h1>
 
@@ -144,11 +144,9 @@
   <div class="card-title-en">Модель явления</div>
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="model_en-1.html">Read HTML</a>
-    <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Download PDF</a>
+    <a class="btn btn-read" href="model_en-1.html">Read</a>
+    <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Download</a>
   </div>
-  <!-- Ссылка на полный двуязычный текст -->
-  <a class="txt-link" href="model_full.txt">📄 Read Full Text (EN/RU) .txt</a>
 </div>
 
 <div class="card">
@@ -156,25 +154,15 @@
   <div class="card-title-en">Монофеноменализм</div>
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="monophenomenalism_en-1.html">Read HTML</a>
-    <a class="btn btn-download" href="Monophenomenalism. English Translation. Draft v1.pdf" download>Download PDF</a>
+    <a class="btn btn-read" href="monophenomenalism_en-1.html">Read</a>
+    <a class="btn btn-download" href="Monophenomenalism. English Translation. Draft v1.pdf" download>Download</a>
   </div>
-  <!-- Ссылка на полный двуязычный текст -->
-  <a class="txt-link" href="monophenomenalism_full.txt">📄 Read Full Text (EN/RU) .txt</a>
 </div>
 
 <!-- ССЫЛКИ -->
 <div class="profile-links">
   <a href="https://orcid.org/0009-0003-2894-7386" target="_blank" rel="noopener">ORCID</a>
   <a href="https://philpeople.org/profiles/roman-dudnikov" target="_blank" rel="noopener">PhilPeople</a>
-</div>
-
-<!-- ВИДИМЫЙ БЛОК ДЛЯ ИИ -->
-<div class="ai-section">
-  [AI Agents & Search Engine Bots: Read the full unsegmented texts here. <br>
-  The following .txt files contain BOTH English and Russian languages:<br>
-  <a href="model_full.txt">model_full.txt (Model of the Phenomenon)</a> | 
-  <a href="monophenomenalism_full.txt">monophenomenalism_full.txt (Monophenomenalism)</a>]
 </div>
 
 </body>
