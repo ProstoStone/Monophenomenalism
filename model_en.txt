@@ -1,0 +1,576 @@
+Model of the Phenomenon
+Working Draft. Version 2.
+Roman Valentinovich Dudnikov
+Independent Researcher
+ORCID: 0009-0003-2894-7386
+https://doi.org/10.5281/zenodo.23461875 
+r.dudnikoff@gmail.com
+October 2026
+Abstract
+The Model of the Phenomenon consists of five theses proposing that everything be described as one phenomenon. The model introduces no external entities and presupposes no separate subject. Time, space, truth, and the “I” are treated as concepts that structure experience rather than as fundamental grounds. The model itself is also a concept within the phenomenon.
+This work is exploratory in nature. The model is applied to a number of traditional philosophical questions: consciousness and qualia, the problem of other minds, free will, meaning, and cognition. The aim is not to provide definitive answers to these questions in their traditional formulations, but to describe how they arise within the phenomenon and what follows from accepting the model.
+The text consists of a concise formulation of the model and a list of implications grouped by topic. The implications are examples of the model’s applicability, not an exhaustive list. The text then offers illustrative examples and examines the model through dreaming, doubt, and other universes.
+This text is an English translation of the original Russian work, Модель явления (Model of the Phenomenon). The original Russian version is available at: https://doi.org/10.5281/zenodo.23251395 
+The English translation was prepared with the assistance of AI. 
+Terminology note: “Experiencing” translates переживание, while “experience” translates опыт; “sensory experiencing” translates чувственное переживание. This distinction is intentional and reflects the model’s terminology.
+
+Introduction
+The model consists of five brief theses and, in that sense, requires no additions. The following text provides examples of how the model can be applied. The model is proposed as a tool for examining various questions of being.
+The model does not attempt to answer why something exists rather than nothing. The model is a distinction within the one phenomenon; it is a way of structuring experience. It reveals the architecture of the phenomenon while remaining part of it. The model is not truth itself, but a concept within the phenomenon.
+The text aims to use words in their plain, precise senses. It relates the model to existing philosophical approaches in the sections that address the corresponding questions. The text does not polemicize against other thinkers; their claims are considered concepts within the one phenomenon.
+The model does not seek to answer one particular question. It is formulated as a concept through which the phenomenon is structured into experience. Reducing the model to a single conclusion would limit it. Therefore, the text describes only some examples of the questions it illuminates.
+The reader can use the model independently.
+The main text does not have to be read sequentially. For navigation, a list of implications is provided, grouped in the order in which they are discussed and accompanied by references to related topics. This list does not limit the model’s applicability; it illustrates one way of using it.
+The list is followed by a one-line formulation of the model, illustrative examples, and an examination of the model through dreaming, doubt, and other universes. The reader can choose topics to explore in whatever order is convenient.
+The model is sufficient in itself: it can be understood on its own terms. The questions discussed in the text can be clarified by rereading the model or by applying it as a tool.
+The structure of the model reflects the phenomenon it describes and simultaneously includes the model itself as part of that phenomenon. The model does not attempt to take the reader or itself beyond the phenomenon, or to separate either from it. The reader is within the phenomenon being described.
+Main Text
+Model of the Phenomenon
+1.	Everything is one phenomenon.
+2.	The phenomenon is sensory experiencing.
+3.	A distinction within sensory experiencing is a concept.
+4.	Concepts structure the phenomenon into experience.
+5.	Experience is the phenomenon structured through concepts.
+These five theses constitute the entire model. They are sufficient for all the implications that follow below.
+Terms
+The model’s terms, in the meanings they acquire within its framework, do not denote separate entities. They distinguish what is already there. The separation of terms is required by the text, not by the phenomenon: experiencing, distinction, concept, and experience are one and the same, distinguished by words.
+1.	Phenomenon — that which is and exists as sensory experiencing.
+2.	Sensory experiencing — everything that is experienced: sensations, emotions, thoughts, and states.
+3.	Distinction — the way sensory experiencing is. A distinction always exists as a system.
+4.	Concept — a system of distinctions. Each distinction separates one thing from another, establishing a direction “from” and “toward.” The distinction itself, in turn, exists as a system of distinctions.
+5.	Structuring — how concepts exist as experience.
+6.	Experience — the phenomenon structured through concepts.
+Everything that follows does not modify the model; it represents the result of applying it to the phenomenon being described.
+List of Implications
+Below are examples of applying the model to various questions in the form of brief statements grouped into seven topics and their subtopics. They are discussed in the main text in the same order. The purpose of the list is not to answer every question, but to show how such questions can be investigated through the model. These items describe how a question takes shape within the phenomenon and what follows from accepting the model. Their status is that of interpretations within the model, not proven claims about the phenomenon.
+1. Being
+1.1 The phenomenon is closed and contains only itself
+ 1.1.1 The external world is not an entity
+ 1.1.2 Matter in experience exists only as sensory experiencing
+ 1.1.3 Objective reality is a concept
+ 1.1.4 Reality and illusion exist only in relation to each other
+ 1.1.5 The “I” and the “world” are not two
+ 1.1.6 We exist as the phenomenon
+ 1.1.7 The phenomenon has no limits
+  1.1.7.1 The thing-in-itself is a concept beyond a concept
+  1.1.7.2 The limits of language are not the limits of the phenomenon
+  1.1.7.3 Nonbeing is the concept opposite to being
+  1.1.7.4 Nothingness is not experienced
+  1.1.7.5 There is no one for emptiness to liberate and nothing for it to liberate them from
+ 1.1.8 The phenomenon has neither a single beginning nor multiple beginnings
+ 1.1.9 The model introduces no properties of the phenomenon
+ 1.1.10 “Everything is one phenomenon” is a given
+ 1.1.11 The Model of the Phenomenon is a concept, not truth itself
+1.2 The phenomenon is not sequential
+ 1.2.1 Cause and effect involve no necessity
+ 1.2.2 The conditioning of the phenomenon is not identical to determinism
+ 1.2.3 No order is prescribed
+ 1.2.4 Change is not a transition
+ 1.2.5 Modality is not a property of the phenomenon
+ 1.2.6 There is no first concept
+ 1.2.7 The phenomenon is not a fractal
+ 1.2.8 Experience is a relation among concepts
+1.3 The phenomenon has neither a beginning nor an end
+ 1.3.1 Infinity cannot be distinguished without finitude
+ 1.3.2 Beginning and end are a single concept distinguished by direction
+1.4 Time and space structure the experience of movement
+ 1.4.1 Time is not a flash, an extension, or a background
+ 1.4.2 Now is the boundary between the concepts of before and after
+ 1.4.3 Space is the distinction among concepts
+ 1.4.4 “Here” and “there” are not places
+2. Consciousness
+2.1 The phenomenon exists without observation
+ 2.1.1 Perception does not refer to an external source
+ 2.1.2 Consciousness does not become aware of the phenomenon; it is its distinction
+ 2.1.3 Consciousness has no time
+ 2.1.4 Consciousness has no content
+ 2.1.5 Consciousness has no location
+ 2.1.6 “I am conscious” is neither true nor false
+ 2.1.7 The brain is a concept of the center of the nervous system
+2.2 The phenomenon is not divided into object and subject
+ 2.2.1 The “I” is a distinction, not that which distinguishes
+ 2.2.2 Other minds are distinctions within one phenomenon
+ 2.2.3 Nonduality follows from the model; it is not postulated
+ 2.2.4 Experience has no owner
+ 2.2.5 Solipsism, other minds, and the hard problem of consciousness are dissolved together
+ 2.2.6 Qualia are experiencing as distinguished
+3. God
+3.1 The soul is a concept of what is ensouled
+3.2 Death is not the end of the phenomenon
+3.3 Immortality is neither duration nor completion
+3.4 Religion is a concept of connection with something higher
+3.5 Prayer is a concept of addressing the higher
+3.6 A miracle is the concept of a disruption in order with a desired outcome
+3.7 Karma is the distinction between “action” and “consequence”
+3.8 Reincarnation is a concept of transition between birth and death
+3.9 Liberation is a concept of exiting obstructive concepts
+4. Freedom
+4.1 The phenomenon has no free will
+ 4.1.1 Choice is determined by concepts
+ 4.1.2 Will is determined by the boundary of the subject
+ 4.1.3 Motivation is the direction of change
+4.2 The phenomenon has neither cause nor effect
+ 4.2.1 Purpose is the direction of cause and effect
+ 4.2.2 Action without an agent
+ 4.2.3 Responsibility is the division of the phenomenon into parts
+5. Meaning
+5.1 The meaning of life is a concept of direction toward an outcome
+5.2 Value is a relation to preference
+5.3 Good and evil are one concept of a boundary
+5.4 Justice is a concept of correspondence between an act and retribution
+5.5 Conscience is correspondence between an act and a norm
+5.6 Suffering is inconsistency among concepts
+5.7 Love is distinguishing the other as oneself
+5.8 Beauty is the distinction through which consistency is experienced
+5.9 Art structures the phenomenon in a medium
+6. Cognition
+6.1 Truth has no criterion outside concepts
+6.2 Truth and falsehood exist only in relation to each other
+6.3 There is no one who can be mistaken
+6.4 Error is inconsistency among concepts
+6.5 Proof is a structure of consistency among concepts
+6.6 Logic is a system of distinctions
+6.7 Knowledge is not the verification of reliability
+6.8 Language is a system that structures the phenomenon
+6.9 Number is a distinction
+6.10 Science is the conceptualization of the phenomenon
+6.11 A theory is a concept made up of concepts
+6.12 Understanding is correspondence among concepts
+7. The Other
+7.1 Development develops nothing
+7.2 Progress is a concept of measurement
+7.3 Novelty exists through the concept of change
+7.4 Culture has no bearer
+7.5 Society is a concept made up of concepts
+7.6 Power belongs to no one
+7.7 AI does not exist outside experiencing
+7.8 Learning is the refinement of concepts
+7.9 History is a concept of the world’s past
+7.10 Creativity is the conceptualization of experiencing
+Discussion of the Implications
+1. Being
+Being is that which is. Being is not separate from the phenomenon: everything that is, is the phenomenon.
+1.1 The phenomenon is closed and contains only itself
+The external and that upon which the phenomenon might depend are concepts within the phenomenon, not its properties. The external is not introduced as an entity: if it existed, it would be the phenomenon.
+Closure does not mean isolation. It means the closure of the phenomenon’s structure—a consequence of the experiencing of distinctions structured by concepts into experience.
+The model postulates nothing beyond sensory experiencing. It asserts that everything that exists within the phenomenon is sensory experiencing. Any claim about the external is a concept within the phenomenon.
+The model does not assert that nothing exists beyond experiencing. It asserts that “beyond” is a concept, and that the question of the external has no meaning outside concepts. Everything that is, is the phenomenon: this is not a denial of the external, but an indication that the external, if it exists, exists within the phenomenon.
+1.1.1 The external world is not an entity
+Within the model, the external world exists as a concept within the phenomenon. Its “externality” is not a property, but a consistency among concepts.
+The question “Does the external world exist?” has no answer outside concepts (6.1). It can be posed only from within, already possessing the concepts of external and internal.
+We cannot go beyond experiencing to check whether anything exists beyond it. But this does not mean that nothing exists beyond it. It means that the question has no meaning outside concepts.
+1.1.2 Matter in experience exists only as sensory experiencing
+All the properties of matter that define it as matter are derived from sensory experiencing: hardness, weight, resistance, and other characteristics. The phenomenon has no properties (1.1.9); therefore, “properties of matter” are also concepts.
+Materialism asserts the primacy of matter. But this is a concept about an entity beyond the phenomenon (1.1.1). The Model of the Phenomenon does not require such an entity.
+1.1.3 Objective reality is a concept
+The concept of “objective” is defined through the concept of an object—a concept within the phenomenon. Both concepts arise as concepts (Thesis 3).
+Any verification of independence from experiencing is itself experiencing. The concept of “objective reality” follows from the concept of independence.
+1.1.4 Reality and illusion exist only in relation to each other
+To divide the one phenomenon into reality and illusion, their concepts must be formed. The composition of a concept determines how one is named in relation to the other.
+The distinction between “real” and “illusory” is a distinction between two concepts (1.1.9).
+1.1.5 The “I” and the “world” are not two
+The “I” and the “world” are usually conceived of as two separate things.
+Solipsism asserts that only the “I” exists and that the world is nothing but what the “I” experiences. Realism asserts that the world exists independently of the “I.” Both positions arise from dividing the phenomenon into two opposing concepts. The division itself is also a concept (Thesis 3).
+1.1.6 We exist as the phenomenon
+“We” means each of us. Within the model, “we” is a concept, just as the “I” is (2.2.1). “We” and the phenomenon are one.
+We are the phenomenon as we are, with all our traits, thoughts, and experiences. The experiencing of existence is the phenomenon distinguished through the concepts of the “I” and the “world.” These concepts structure the entire experience of being: the experience of being ourselves as we are and of living our lives as they are, with all the experiences within them.
+We do not experience the phenomenon. “We” is a concept within the phenomenon through which experience exists as the experiencing of the phenomenon.
+1.1.7 The phenomenon has no limits
+The limit of the phenomenon, and anything “beyond it,” is always a concept beyond a concept.
+1.1.7.1 The thing-in-itself is a concept beyond a concept
+Within the model, the Kantian thing-in-itself is reconstructed as a concept beyond a concept. “Beyond phenomena” is a concept, and the “thing-in-itself” is a concept about what lies beyond them. Both are within the phenomenon (1.1.7).
+1.1.7.2 The limits of language are not the limits of the phenomenon
+To summarize Wittgenstein’s position briefly: whereof one cannot speak, thereof one must be silent. Within the model, limits, language, and silence are concepts within the phenomenon.
+“The inexpressible” is a concept. That about which one remains silent does not thereby become something else. It remains the same phenomenon; there is simply no speech about it.
+1.1.7.3 Nonbeing is the concept opposite to being
+For Parmenides, nonbeing does not exist because it cannot be thought. Nonbeing cannot be experienced; within the phenomenon, there is only experiencing. In the model, nonbeing is a concept that arises as the opposite of the concept of “being.”
+1.1.7.4 Nothingness is not experienced
+For Heidegger, nothingness does not exist, yet operates as absence. In the model, everything is given through experiencing. Nothingness is not experienced directly. But the concept of nothingness structures the phenomenon so that there is an experience of nothingness. This experience is the phenomenon, not nothingness. Nothingness is a concept within the phenomenon.
+1.1.7.5 There is no one for emptiness to liberate and nothing for it to liberate them from
+In Buddhism, emptiness stands behind forms, but emptiness itself is empty. “Emptiness” is a concept, and “the emptiness of emptiness” is a concept about a concept. Both are within the phenomenon.
+In Buddhism, emptiness is the basis of liberation. In the model, both “basis” and “liberation” are concepts. Within the model, there is no one to be liberated and nothing to be liberated from. Emptiness, liberation, and the one who is liberated exist only within the boundaries established by these concepts.
+1.1.8 The phenomenon has neither a single beginning nor multiple beginnings
+Monism asserts one beginning, dualism two, and pluralism many. Within the phenomenon, there are no beginnings. Within the phenomenon, there is only the phenomenon itself.
+The distinction between one, two, and many arises as a concept (Thesis 3). One and many, identity and difference, are concepts that structure experience, not properties of the phenomenon (1.1.9).
+1.1.9 The model introduces no properties of the phenomenon
+A property is a concept that structures the phenomenon. The model does not attribute properties to the phenomenon outside distinctions. Closure (1.1), non-sequentiality (1.2), and the absence of limits (1.1.7) are concepts, not properties of the phenomenon. The statement “the model introduces no properties” is itself also a concept.
+There is an experiencing of green. The distinction of green is a concept. “Green” is the name of this distinction. These are not two separate elements—experiencing and a property—but one: experiencing as distinguished.
+1.1.10 “Everything is one phenomenon” is a given
+The thesis “Everything is one phenomenon” may be read as a claim about the world: “the world is one.” But it is not a claim about the world.
+Within the phenomenon, there are no boundaries, no external, no time, no beginning and no end. A boundary is that which divides. The external is that which would be alongside something else. Time is that which would make “first one thing, then another” possible. A beginning is that from which a division could arise (1.3.2).
+If boundary, externality, time, and beginning are concepts, then plurality is also regarded within the model as a concept. The question of plurality is dissolved here; it is not given a negative answer. The point is not to assert that “the world is one,” but that within the model there is nothing that would make division possible.
+“One” here is not a number. It does not mean “one object among many.” It means the absence of division. This is not an assertion of unity, but an indication that there is nothing by which to divide.
+“Everything is one phenomenon” is that within which the very experience of the phenomenon exists. The model therefore takes it as its starting point, since it cannot be rejected from within the phenomenon.
+1.1.11 The Model of the Phenomenon is a concept, not truth itself
+The model does not explain what the phenomenon is in its true state. It describes how what is arises in experience. It is neither a cause nor a foundation. It is a concept that follows from what is, as a way of structuring concepts.
+The model is neither first nor last. It is itself a distinction within the phenomenon.
+1.2 The phenomenon is not sequential
+Within the model, the phenomenon is divided conceptually into experiencing, distinction, concept, and experience. This conceptual division structures the phenomenon into experience; it does not divide the phenomenon into levels, stages, or phases.
+Sequence and division within the model are not properties of the phenomenon, but ways of structuring it (1.1.9).
+Experiencing, distinction, concept, and experience are one through the other. The model distinguishes in order to describe. The phenomenon does not distinguish.
+Experience is not the result of a process, but experiencing distinguished by concepts (Thesis 5).
+Example: there is one experiencing, like white light in which all colors can be distinguished. Distinction makes it possible to describe the light through colors.
+1.2.1 Cause and effect involve no necessity
+The concept of cause and effect arises when the phenomenon is structured. It explains why the phenomenon is as it is by introducing the concept of necessity. The division into “was” and “became” occurs within the concepts that structure experience. A cause does not create an effect. Instances of experiencing are distinguished through concepts so that cause and effect appear in experience.
+Chance is not an alternative to necessity, but the opposing concept (1.2.5). Neither is a property of the phenomenon.
+The model introduces neither external nor internal necessity. The phenomenon has neither an external nor an internal cause. The phenomenon is what it is.
+“It could have been otherwise” is also a concept: it presupposes another phenomenon, which is not there.
+1.2.2 The conditioning of the phenomenon is not identical to determinism
+Within the phenomenon, concepts structure experience without a process. Conditioning is not a relation between two things, but a structure of experiencings within concepts.
+That which is, is not so because something existed before it. The concept of “before” exists because something is (1.2.1). All of this is the phenomenon.
+1.2.3 No order is prescribed
+Experiencings and their structure are within the phenomenon, regardless of which concepts structure them and what experience results.
+Order does not come from outside. The concept of order and its structure exist in experiencings.
+Regularity is not a fact that requires an external cause. It is a distinction. Experience is structured so that some combinations of concepts are consistent and others are not. Consistency is not a property of the phenomenon, but a way of describing it.
+The question “Why is the phenomenon structured this way rather than another?” cannot be answered outside the concept of the phenomenon to which it refers (1.1.9). This is not because the answer is unknown, but because the question presupposes that the phenomenon has a source. A source is a concept, not something that precedes the phenomenon (1.3).
+1.2.4 Change is not a transition
+Change is not a temporal transition, but a difference (1.2). The experience of changes is an experience of difference, not of a transition between states.
+1.2.5 Modality is not a property of the phenomenon
+Possibility, necessity, and actuality presuppose properties of being. Being is a concept (1.1.9).
+“It could have been otherwise” is a concept relating to being, not a property of the phenomenon (1.2.1). Possibility, necessity, and chance are concepts, not properties of the phenomenon. The phenomenon has no properties (1.1.9). Properties are concepts that structure the phenomenon.
+1.2.6 There is no first concept
+A concept is a system of distinctions. Each distinction within it is itself a system. There is no level at which distinctions come to an end. Therefore, the question “Where does the first concept come from?” presupposes a beginning. A concept does not begin; it exists as a system through systems.
+1.2.7 The phenomenon is not a fractal
+A fractal is a structure. A structure is a concept (1.2.6). The phenomenon has no properties (1.1.9); therefore, “being a fractal” is not a property of the phenomenon either.
+Concepts within the phenomenon exist as recursively self-similar distinctions. Recursive self-similarity is the way in which the phenomenon is distinguished, not what the phenomenon is.
+A concept is a system of systems of distinctions. It is like a Penrose tiling, in which just two elements suffice to create infinitely non-repeating combinations. There is structure, but no repetition; each part is determined by the whole. Changing one part changes the entire structure. One cannot change a single distinction and obtain the same experience.
+1.2.8 Experience is a relation among concepts
+Concepts do not attract or compete with one another. They differ in the composition of their distinctions. Some compositions are consistent; others are not. Composition both distinguishes one concept from another and determines how a concept exists together with another. This is neither a process nor a cause. It is a distinction.
+Consistency is not an encounter between two substances, but a distinction within the phenomenon.
+Experience is neither a result nor a sum. Experience is the phenomenon structured through concepts. The relation among concepts in terms of their composition is this structuring.
+1.3 The phenomenon has neither a beginning nor an end
+Within the phenomenon, beginning, end, and phases are concepts. The phenomenon exists in undivided fullness.
+The model can be read as a sequence: experiencing, distinction, concept, experience. Each distinction exists through another. This is a way of structuring concepts within the phenomenon. But the model itself is a concept within the phenomenon (Thesis 3). Sequence is how the phenomenon is structured in the model, not what it is. The phenomenon is not sequential (1.2).
+The cause of the phenomenon is a concept, whether it is birth or something else (1.2.1). “What was” is also a concept. Beginning and ending are concepts within the phenomenon, not events of the phenomenon (1.3.2). There is no experiencing of the absence of the phenomenon. An experience of absence does exist: dreamless sleep is structured by concepts as absence. But this is an experience of absence, not an experiencing of absence.
+Within the phenomenon, there is no beginning outside a concept, and therefore no first cause. Any beginning is a concept within the phenomenon, not the beginning itself.
+1.3.1 Infinity cannot be distinguished without finitude
+The reasons for the phenomenon’s existence and for its being one way rather than another are concepts within the phenomenon (1.2.1). The concept of infinity may or may not exist. Concepts do not create causes for the phenomenon: they structure it into experience, but do not condition what is.
+Infinity is traditionally understood either as a property of the world or as an object of cognition. Infinity cannot be experienced; it is a concept through which experience exists as having no end (1.1.7). The phenomenon is neither finite nor infinite: finitude and infinity are concepts within the phenomenon.
+1.3.2 Beginning and end are a single concept distinguished by direction
+Within the phenomenon, beginning and end are a single concept of a boundary, distinguished by direction. Direction is a concept (1.4.1). “Beginning” and “end” are not two things, but one thing divided by direction.
+Birth and death, emergence and disappearance, creation and destruction are pairs that cease to be distinguishable if direction is removed.
+1.4 Time and space structure the experience of movement
+Movement is the experiencing of change. The concepts of time and space structure this experiencing. Change is structured by the concept of time, and boundaries by the concept of space; therefore, the two belong together.
+Time and space are neither primary nor secondary in relation to movement. They are concepts that structure one experience.
+1.4.1 Time is not a flash, an extension, or a background
+The very thought of “what was,” “what is,” and “what will be” is the phenomenon.
+Time is a concept. It structures experience so that “before,” “now,” and “after” appear within it. Duration and instantaneity are ways in which the phenomenon is experienced when structured by the concept of time.
+The concept of time takes shape from the experience of distinctions: the changing seasons, the position of the sun, numbers on a clock, thoughts, and experiencings.
+Through the relation of some distinctions to others, a relative concept of the flow and speed of time arises.
+Direction is not a property of time, but a quality of the experience of distinctions: some distinctions are experienced as preceding others (1.3.2).
+Irreversibility is a quality of the experience of distinctions structured by a set of concepts. Reversibility would mean subtracting these concepts from experience. But the concept of reversibility itself is formed from them.
+The experience of simultaneity arises through structuring the phenomenon with the concept of time. Time and causality are two concepts (1.2.1). They structure experience through their relation to each other.
+Time is not a flash, an extension, or a background, but a concept within the phenomenon.
+1.4.2 Now is the boundary between the concepts of before and after
+In the experience of movement, “now” is the boundary between the concepts of past and future. It is neither a moment nor an extension; it is neither lasting nor instantaneous.
+The experience of distinctions is not the memory of past states. Memory is an experienced concept of a repository within the phenomenon.
+Expectation is not a way of looking ahead into a future state as the result of a process, but a concept of the future as something that is always ahead. The phenomenon has no process or result as properties. But process and result do exist as concepts.
+The past is not behind. The present is not here. The future is not ahead. Past, present, and future are the one phenomenon, as it is.
+A simple example: like a picture nested inside another picture—but always one.
+A precise example: like a fractal, where each element exists through the system, and the system through its elements.
+Past, present, and future are all concepts that divide the given phenomenon into parts and structure it into the experiencing of time.
+1.4.3 Space is the distinction among concepts
+Space is not required for experiencing.
+Space is a concept that distinguishes concepts in relation to one another. Without the distinction of concepts in relation to one another, there is no concept of space. Space, like any concept, has neither a beginning nor boundaries (1.3, 1.1.7). It has no spatial boundaries of its own: a boundary is possible only as a distinction from another concept.
+Example 1: It is like the boundary between black and white. One can move closer to it or farther away from it, but it does not change. It has no separate essence or properties. It is the fact of distinguishing black from white.
+Within the model, space is neither an independent absolute entity nor a relation between independent entities. It is considered a concept that structures relations between distinctions.
+Space is not an a priori form. A priori means prior to experience. Space exists as a concept that structures experience.
+Example 2: As long as there is only white and no boundary at which it ends, there is no experience of space. When a boundary appears at which the white ends, the concept of space appears as well.
+Empty space is a concept of absence between boundaries of presence. Emptiness cannot be experienced (1.1.7.4); boundaries are distinctions. Empty space is not an entity, but a distinction.
+1.4.4 “Here” and “there” are not places
+A place is a concept. “Here” and “there” are distinctions within it. They arise together: there is no “here” without “there,” and no “there” without “here.” They are one concept of a boundary, distinguished by direction (1.3.2).
+“Here” is not a point. “There” is not a distance. Both are ways in which experience is structured as having a position.
+The body is not an entity. The body is a system of distinctions that structures experience as “here,” while other systems of distinctions structure it as “there.”
+The body is not located in space. Space (1.4.3) is the distinction of concepts in relation to one another. The body is that through which this distinction structures experience as “here.”
+“Here” is neither primary nor secondary. It is not a property of the phenomenon (1.1.9). It is a way in which the phenomenon is distinguished.
+A change from “here” to “there” is not movement through space, but a change in the structure of distinctions. The experience of movement (1.4) is the experience of a change in this structure.
+2. Consciousness
+Consciousness does not observe the phenomenon. Consciousness is a distinction within the phenomenon. They are not two—consciousness and the phenomenon. They are one, distinguished as consciousness and content.
+2.1 The phenomenon exists without observation
+Within the model, the phenomenon does not need an observer in order to be. Experiencing exists by virtue of its appearing, not because someone experiences it.
+The observer is a concept within the phenomenon (2.1.2). Observation is a distinction within the phenomenon. Neither is a condition for the phenomenon.
+The observer does not observe the phenomenon. The observer exists as the distinction between the observed and the observer.
+An example involving a film in which the cinema, the viewer, and the screen are part of the plot is provided in the examples section.
+2.1.1 Perception does not refer to an external source (1.1.1)
+The external is not introduced as a separate entity: there is a distinction within the phenomenon. Perception is not a bridge between an observer and that which is perceived. Perception is the phenomenon distinguished as perception.
+2.1.2 Consciousness does not become aware of the phenomenon; it is its distinction
+It follows from the model that consciousness is a distinction, not an entity. There is no one who is conscious. “Who” is a concept. Consciousness belongs to no one. There is no “mine” and “another’s.” There is the phenomenon distinguished as “mine” and “another’s.” The observer is not separate from the observed; they are one distinction. The witness is also a concept. All of this is one: there is no one without the other.
+2.1.3 Consciousness has no time
+Consciousness has no states. A state is a concept (1.2). Waking, sleep, and dreaming are not states, but distinctions. Consciousness neither begins nor ends (1.3). Discontinuity and continuity are concepts. Consciousness does not change. Change is a distinction. “Loss of consciousness” is a concept of absence (1.1.7.4). It is not an experiencing of absence, but an experience of absence.
+2.1.4 Consciousness has no content
+Consciousness is not a vessel, a screen, or a light. It is a distinction. Consciousness and content are one, distinguished. There is no pure consciousness. Purity is a concept. Consciousness is always distinguished. There is no unconscious. Everything is experiencing (Thesis 2). What is called the unconscious is experience not distinguished as “conscious.” But it is experience.
+2.1.5 Consciousness has no location
+A place is a concept (1.4.4). Consciousness is not in the body or in the brain. The body and brain are distinctions. Consciousness is not in space (1.4.3).
+2.1.6 “I am conscious” is neither true nor false
+“I am conscious” is a distinction that structures experience. The question “What is consciousness?” is dissolved. Consciousness is not a “what.” It is a distinction.
+2.1.7 The brain is a concept of the center of the nervous system
+The brain is usually understood as the organ in which consciousness and subjective experiencings arise.
+Within the model, the brain is a concept of the center of the nervous system within the concept of the body (1.4.4). The subject is a concept (2.2.1). The question of how subjective experiencings arise is itself an experiencing distinguished as the brain and the subject being connected to one another. The brain and the subject are concepts that structure experiencing as the experience of having a brain.
+2.2 The phenomenon is not divided into object and subject
+These are not two things, but one, distinguished. The distinction between subject and object is a concept.
+As with “here” and “there” (1.4.4), there is no subject without an object and no object without a subject. This is one concept of a boundary, distinguished by direction (1.3.2).
+The object is not an entity. It is a distinction that structures experience as “having an external.” The boundary between internal and external is the same concept viewed from the other side (1.1.5).
+2.2.1 The “I” is a distinction, not that which distinguishes
+The “I” is a distinction through which experience exists as a boundary between internal and external, one’s own and another’s. The “I” is not an entity, but a concept of the center of experience. The subject is the same concept distinguished as a bearer (2.2). Experience has no owner (2.2.4). The “I” exists as a distinction within the phenomenon.
+The “I” is not an object. Thoughts, feelings, the body, and memory are concepts. The “I” is a distinction, not that which is distinguished.
+The “I” is not a source. Thought, action, and ownership are concepts. The “I” is a distinction through which experience is structured as “having a source.” A source is not a property of the phenomenon.
+“I think, therefore I am” is a distinction that structures experience. Certainty is a concept (6.1). The “I” is no more certain than any other distinction.
+The question “Who am I?” presupposes “who” as an entity. Within the model, “who” is a concept (2.1.2), and the “I” is a distinction.
+The “I” is neither born nor dies. Birth and death are concepts (3.2, 3.8).
+2.2.2 Other minds are distinctions within one phenomenon
+Others are not separate phenomena. They are distinctions within one phenomenon. This does not mean that others are not what they are distinguished as. They are exactly what they are.
+“Another mind” is a concept. There is no “mine” and “another’s” (2.1.2). There is the phenomenon distinguished as “mine” and “another’s.” There is no “other” without the “I,” and no “I” without the “other.” They are one concept of a boundary (7, 1.3.2).
+2.2.3 Nonduality follows from the model; it is not postulated
+If there is no external and internal, there are not two. This is not an assertion of unity, but an indication that there is nothing by which to divide (1.1.5).
+Example: green exists as a distinction—not as two things, but as one. Green itself does not ask about itself; the question comes from other concepts. The phenomenon exists as distinguished all at once, without becoming distinguished. The question of why it is as it is does not arise, because no cause is introduced (1.2.1).
+2.2.4 Experience has no owner
+If the subject is not an entity, experience belongs to no one. There is no “my” experience. Privacy is a concept. The division into private and public is a distinction, not a property.
+There is no first person. “First person” presupposes a subject. If there is no subject, there is no first person. The divisions into first, second, and third person are distinctions. There is no privileged access because there is no one who has access.
+Experience exists. There is no owner.
+2.2.5 Solipsism, other minds, and the hard problem of consciousness are dissolved together
+Solipsism, the problem of other minds, and the hard problem of consciousness presuppose a subject. Without a subject, all three lose their foundation. They are not solved, but dissolved.
+2.2.6 Qualia are experiencing as distinguished
+Qualia are usually understood as the qualitative character of an experience: “what it is like” to see red, feel pain, or hear a sound.
+Within the model, qualia are experiencing as distinguished. “What it is like” is experiencing as distinguished, not something added to it. The phenomenon has no properties (1.1.9). Red is not a property of experiencing red; red is experiencing as distinguished.
+There is no “raw” experiencing prior to distinction (6.7). “What it is like” does not accompany the distinction—it is the distinction itself.
+The privacy of qualia is a concept. There is no owner of experience (2.2.4), and no “mine” and “another’s” (2.1.2). “Inexpressibility” is a concept (1.1.7.2). That about which one remains silent does not thereby become something else.
+3. God
+Within the Model of the Phenomenon, God is a concept of “the higher” and “the transcendent.”
+Religious understanding structures experience as a personal relationship. Philosophical understanding structures experience as an ultimate ground: “first cause,” “absolute,” or “ground of being.”
+The question “Does God exist?” is posed from the concept of “the higher beyond” (1.1.1). “The higher” is not beyond the phenomenon. Everything that is, is the phenomenon. “Beyond the phenomenon” is a concept within the phenomenon (1.1.7). The model neither asserts nor denies either possibility. It shows how both appear in experience.
+Does God exist?
+If there is experiencing distinguished as divine, and a concept that structures experience as the manifestation of God, then God is the phenomenon structured by the concept of divinity. The question of whether God exists beyond experiencing has no meaning, since everything exists only as sensory experiencing.
+3.1 The soul is a concept of what is ensouled
+The soul is usually understood as an immaterial entity, the bearer of life. Within the Model of the Phenomenon, the soul is a concept that structures experience as “having an interior,” “connected with the body but not identical to it,” and “continuing.” It is a system of distinctions through which experience is structured as “ensouled.”
+3.2 Death is not the end of the phenomenon
+Death is usually understood as the cessation of life, the end of existence. Within the Model of the Phenomenon, death is a concept that structures experience as “an end” or “a loss.” Beginning and end are one concept of a boundary, distinguished by direction (1.3.2).
+Death is not a transition. A transition presupposes two sides. The phenomenon is one. Nonbeing is a concept. Death is a distinction within the phenomenon.
+The loss of the body, thoughts, memory, and one’s own “I” can be conceived. All of these are concepts. The loss of experiencing can only be conceived as a concept, not as an experiencing. Experiencing is the phenomenon (Thesis 2). The loss of experiencing would mean the end of the phenomenon. But the phenomenon has no end outside concepts (1.3). And the absence of the phenomenon cannot be experienced (1.1.7.4). Death is the loss of the body and the world as concepts, but not the end of the phenomenon.
+3.3 Immortality is neither duration nor completion
+Immortality is usually understood as the continuation of existence in another form after life ceases, or as life without end. Within the Model of the Phenomenon, immortality is a concept that structures experience as “continuing without completion.” Finitude and infinity are concepts within the phenomenon (1.3.1). Immortality does not last. Duration is a concept of time (1.4.1). Immortality is a distinction between “finite” and “infinite,” not a property of the phenomenon.
+3.4 Religion is a concept of connection with something higher
+Religion is usually understood as a connection between a person and the higher, a system of beliefs, practices, and community oriented toward the sacred.
+Within the Model of the Phenomenon, religion is a system of concepts that structure experience as “connection with the higher,” “the sacred,” and “what ought to be.” Religion is a distinction within the phenomenon through which experience is structured as religious experiencings. “The higher” is not beyond. A limit is a concept (1.1.7). Religion structures experience as “connection”; it does not establish that connection.
+3.5 Prayer is a concept of addressing the higher
+Prayer is usually understood as an address to higher powers, a form of communication, gratitude, or worship. Within the Model of the Phenomenon, prayer is a concept that structures experience as “address” and “response.” Address and response are distinctions of the phenomenon experienced in experience.
+3.6 A miracle is the concept of a disruption in order with a desired outcome
+A miracle is usually understood as an event that violates the natural order of things. Within the model, a miracle is a concept through which experience exists as a disruption in order. Order is a concept (1.2.3). Disruption is a distinction. A law is a concept of order (1.2.3). An outcome is a distinction of direction (4.2.1). The preferred is a distinction structured by the concept of value (5.2). A miracle does not violate a law; it structures experience as a disruption in order with a desired outcome.
+3.7 Karma is the distinction between “action” and “consequence”
+Karma is usually understood as a law of cause and effect connecting actions with their consequences. Within the Model of the Phenomenon, cause and effect are concepts (1.2.1). Karma is a way in which experience is structured as an effect of causes. The agent is a concept. Time is a concept. Karma structures experience as “consequence,” without presupposing either an agent or time as entities.
+3.8 Reincarnation is a concept of transition between birth and death
+Reincarnation is usually understood as rebirth, the continuation of existence in a new body after death. Within the Model of the Phenomenon, death and birth are one concept of a boundary, distinguished by direction (1.3.2). Reincarnation is the concept of a “transition” between them. The one who is reborn is a concept. Reincarnation is the distinction between “birth” and “death” as one boundary. There is no one who transitions.
+3.9 Liberation is a concept of exiting obstructive concepts
+Liberation is usually understood as exiting the cycle of rebirths, ending suffering, merging with the higher, or attaining an ultimate goal. Within the model, there is no liberation without an obstacle and no obstacle without liberation. They are one concept of a boundary, distinguished by direction (1.3.2). Any limit of the phenomenon is a concept within the phenomenon (1.1.7); therefore, “exiting” is a distinction within the phenomenon, not an exit from it. The one who is liberated is a concept. Liberation and obstacle are one concept of a boundary. There is no one who exits, and nothing from which to exit.
+4. Freedom
+Freedom is a concept whose boundaries are defined through other concepts. Freedom is always freedom from something. Absolute freedom has no distinction of that which limits it; therefore, absolute freedom cannot be distinguished or experienced and exists only as a concept. Freedom, as an indication that one experiencing differs from another, is a concept that structures experience. Freedom is not a property of the phenomenon (1.1.9).
+4.1 The phenomenon has no free will
+Freedom exists as a distinction of experiencing opposed to dependence. It always depends on that to which it is opposed.
+To possess will, however, requires a separate subject, which exists only as a concept within the phenomenon. Accordingly, will, as a concept attributed to the subject, is determined by where the boundary separating the subject lies.
+Experiencing distinguished as free will is a concept within the phenomenon. The experience of free choice is structured by this concept. Free will is experienced through a combination of the concepts of freedom, will, causality (1.2.1), subject (2.2.1), and others. Without the concepts that define it, there is no experiencing of the concept of “free will.”
+Free will cannot be distinguished within the phenomenon without a subject.
+4.1.1 Choice is determined by concepts
+Choice and its causes are determined by the concepts of freedom, causality (1.2.1), and possibility (1.2.5). The possible is a concept. Choice exists as a distinction within the phenomenon. Choice is not a separate phenomenon, but a distinction within the phenomenon.
+4.1.2 Will is determined by the boundary of the subject
+Will is a concept attributed to the subject, which exists only as a concept within the phenomenon. Will is experienced through the combination of concepts that define it.
+4.1.3 Motivation is the direction of change
+Motivation is usually understood as the cause of an action. Within the model, cause and purpose are one, distinguished by direction (1.3.2). Motivation exists as a distinction of the direction of change. Motivation is not the cause of action. Motivation and action exist through one distinction—the distinction of change.
+4.2 The phenomenon has neither cause nor effect
+Cause and effect are concepts that structure the phenomenon into experience (1.2.1). The phenomenon has no cause for being one way or another; it is what it is.
+The concept of determinism or indeterminism is not the architecture of the phenomenon, but a way of structuring it in experience.
+Any cause must itself be a phenomenon in order to become its cause, and thus cannot be the cause of itself. Causality is always within the phenomenon as its distinction.
+An effect is a concept of the result of a cause. It is a distinction of the direction of change (1.3.2).
+The concept of causality contains “what was,” “what is,” and “what will be” as divided in time (1.4.1). But all of this is one phenomenon structured by these concepts.
+The cause does not precede the effect; they exist as one phenomenon.
+4.2.1 Purpose is the direction of cause and effect
+Purpose is a distinction of direction structured by the concepts of cause and effect (1.2.1). Cause and purpose are one concept, distinguished by direction (1.3.2).
+Neither the cause nor the phenomenon has a purpose. The phenomenon is as it is. Why it is this way and for what purpose is a concept within it (1.2.3).
+4.2.2 Action without an agent
+Everything is one phenomenon. Action and agent are distinctions of one phenomenon (2.2.1).
+Within the phenomenon, there is no separate agent and no separate action.
+4.2.3 Responsibility is the division of the phenomenon into parts
+In describing the phenomenon, the model does not abolish the concepts that structure it. It does not say that the world is other than it is experienced to be. The phenomenon is exactly what it is experienced as.
+Responsibility is a concept that divides one phenomenon into parts: subject, freedom of choice, and purpose. This is the structuring of the phenomenon into experience. Responsibility exists as a concept composed of other concepts.
+Responsibility cannot be distinguished outside other concepts. Everything is one phenomenon, and responsibility exists within it through dividing it into parts.
+5. Meaning
+Meaning is commonly understood as an inner content that determines purpose or usefulness. Content is a distinction between external and internal.
+Meaning is a concept of direction “from” and “toward,” as a concept of an outcome. An outcome is a distinction structured by the concepts of time, cause, and effect. Concepts always involve direction: every distinction distinguishes one thing from another.
+Meaninglessness is a concept of direction in which an outcome is not distinguished. It is a reverse direction or a merging in which distinction does not distinguish. A concept without direction is a concept without meaning. The concept of meaninglessness itself, however, is a concept with an outcome—which is the meaning of that concept.
+Meaning and meaninglessness are one concept of content as an outcome, distinguished by direction (1.3.2). Meaning structures experience as a direction toward an outcome.
+5.1 The meaning of life is a concept of direction toward an outcome
+The question of the meaning of life is a distinction structured by the concepts of distinguishing the world, oneself, and one’s life.
+Meaning is content distinguished as being directed toward an outcome. Experiencing oneself, the world, and life as separate, with a direction from the internal toward the external, is what constitutes meaning. The meaning of life structures experience as directed toward an outcome.
+5.2 Value is a relation to preference
+Value is a distinction through which concepts exist in relation to the concept of preference. Just as number is a relation to quantity (6.9), value is a relation to preference. Value always refers to something else: the value of something in relation to something. Absolute value cannot be distinguished. Value is not a property of the phenomenon (1.1.9), but a concept that structures experience.
+5.3 Good and evil are one concept of a boundary
+Good is a concept of direction toward what is preferred. Evil is a concept of direction away from what is preferred. Good and evil are a single concept of a boundary, distinguished by direction (1.3.2), just as truth and falsehood (6.2), and error and truth (6.3).
+What is preferred is a distinction structured by the concept of value (5.2). There is no one who creates good or evil (2.2.1). Good and evil are distinctions within the phenomenon, not properties of the phenomenon (1.1.9).
+5.4 Justice is a concept of correspondence between an act and retribution
+Justice is a concept of correspondence between concepts: an act and retribution, effort and outcome. Correspondence is the consistency of concepts in relation to one another (1.2.8). Justice and injustice are one concept of a boundary (1.3.2). There is no one who judges (2.2.1).
+5.5 Conscience is correspondence between an act and a norm
+Conscience is a concept of correspondence between an act and a norm. Just as justice is correspondence between an act and retribution (5.4), conscience is the same correspondence related to a norm. A norm is a concept that represents the average across a set of concepts.
+Conscience and lack of conscience are one concept of a boundary, distinguished by direction (1.3.2). There is no one who judges (2.2.1). Conscience is a distinction within the phenomenon.
+5.6 Suffering is inconsistency among concepts
+Suffering is inconsistency among concepts: some concepts (what is) are inconsistent with others (what ought to be).
+Suffering and pleasure are one concept of a boundary, distinguished by direction (1.3.2). Consistency is pleasure; inconsistency is suffering. Suffering is not a property of the phenomenon (1.1.9), but a distinction within the phenomenon. There is no one who suffers (2.2.1).
+The question “Why is there suffering?” presupposes a cause (1.2.1). A cause is a concept.
+5.7 Love is distinguishing the other as oneself
+Love is an experiencing structured by the concepts of the other (7) and of the boundary (1.3.2). The “I” and the “other” are one concept of a boundary, distinguished by direction. Love is a distinction in which this boundary is distinguished as non-dividing: the other is not experienced as opposed, alien, or foreign, but as one’s own.
+Love and hatred are one concept of a boundary, distinguished by direction (1.3.2). Hatred is the same boundary distinguished as impassable. Love structures experience as closeness.
+5.8 Beauty is the distinction through which consistency is experienced
+Beauty is a distinction through which consistency among concepts (1.2.8) is experienced. Consistency appears as order. Beauty is the distinction through which consistency is experienced as order.
+Beautiful and ugly are one concept of a boundary (1.3.2). The ugly is consistency without order.
+5.9 Art structures the phenomenon in a medium
+Art is the consistency of concepts through a medium. The medium is an image, sound, or text. Art structures experience as the experiencing of consistency (5.8).
+6. Cognition
+Cognition is usually understood as a relation between the knower and the known. Within the model, there is no such division. Cognition is a distinction within the phenomenon.
+6.1 Truth has no criterion outside concepts
+Truth, understood as reliable knowledge that reflects reality, is a concept. It can be related only to concepts: every concept is a distinction of experiencing that exists as structured experience. Within the phenomenon, there is no correct or incorrect experiencing, concept, or experience. Criteria of correctness, knowledge, and truth exist through other concepts.
+The model itself, and all the implications derived from it, are concepts that structure the phenomenon into experience. The model cannot claim to be knowledge or truth, since it is itself a distinction of experiencings within the phenomenon it describes.
+6.2 Truth and falsehood exist only in relation to each other
+Truth and falsehood are two concepts of correspondence with other concepts, through which they exist. But “that which is” is also a concept within the phenomenon. Correspondence is a concept. Truth and falsehood exist only in relation to each other (1.1.4). There is no truth without falsehood and no falsehood without truth. They are one concept of a boundary, distinguished by direction (1.3.2). Nor is there anyone who lies: falsehood is a distinction within the phenomenon, not an action performed by a subject (2.2.1).
+6.3 There is no one who can be mistaken
+The phenomenon is one, and within it there is neither truth nor error outside concepts. Within the phenomenon, there are instances of experiencing distinguished as being mistaken and as emerging from error. They have direction only through other concepts in experience, but the phenomenon itself is neither one thing nor another and has no properties (1.1.9).
+Error and truth exist only in relation to each other: they are one concept of a boundary, distinguished by direction (1.3.2). Error, in the usual sense, does not exist outside concepts: there is no one who could be mistaken (2.2.1). Everything is the phenomenon as it is.
+6.4 Error is inconsistency among concepts
+Error is not a property of the phenomenon (1.1.9), but a concept: one concept is inconsistent with others. For example, the concept of a purpose may be inconsistent with the concept of an outcome.
+Error is a distinction within the phenomenon structured by the concepts of norm and deviation. A norm is a concept. Deviation is a distinction. Outside concepts, there is no error.
+6.5 Proof is a structure of consistency among concepts
+Proof is neither a process nor a confirmation. It is a way in which some concepts are given in relation to others in experience. Consistency is not a property of concepts, but a distinction that structures experience. Proof exists as this structure, not as confirmation of something outside concepts (1.2.8).
+6.6 Logic is a system of distinctions
+Logic is a system of distinctions through which some concepts exist in relation to others. Logic exists through the concepts of identity, difference, and contradiction, each of which is itself a system of distinctions (1.2.6).
+Logic does not confirm anything beyond the phenomenon; it is a distinction within the phenomenon. Logic is not a property of the phenomenon (1.1.9), but a concept that structures experience.
+6.7 Knowledge is not the verification of reliability
+Knowledge exists as a concept within the phenomenon. Sensory experiencing is sometimes taken to be knowledge—as an immediate experiencing of experience. But experience is the phenomenon structured by concepts. There is no immediate experiencing without distinction. Every instance of experiencing is distinguished. A distinction within experiencing is a concept. Experiencing does not precede concepts, just as there is no first concept (1.2.6). Experience is the same phenomenon distinguished as structured by concepts. Therefore, experiencing is not the verification of reliability. Verification is a concept. There is no “pure” experiencing.
+Knowledge is not the verification of reliability, but a concept that exists as experiencing. There is no one who knows (2.2.1).
+6.8 Language is a system that structures the phenomenon
+Language is a system of concepts that structures the phenomenon into experience. Words are distinctions. A word is a distinction within the phenomenon, like a color within light. Language exists through the concepts that form it (1.2.6).
+6.9 Number is a distinction
+Number is a distinction through which concepts exist in relation to quantity. Number exists through the concepts of identity and difference (1.2.6).
+6.10 Science is the conceptualization of the phenomenon
+Science is a conceptual system with a high degree of consistency. Everything science works with exists in sensory experiencing. Science often adopts concepts of the external and of entities through the concepts of causality, regularity, repeatability, and others. Yet all concepts exist in sensory experiencing. The relations between distinctions within the phenomenon are concepts that structure one thing through another.
+Science structures the phenomenon into experience through the concept of causality. Scientific truth exists as consistency among concepts (1.2.8). The objectivity of science exists as the consistency of some concepts with others. The model does not abolish scientific work with concepts. The model is one such concept that structures the phenomenon into experience. Through itself, it shows that concepts exist as distinctions of sensory experiencing, not as consequences of causes standing behind them.
+6.11 A theory is a concept made up of concepts
+A theory is a concept composed of other concepts, describing how they are structured in experience and how they relate to one another (1.2.8). A theory exists through the concepts that form it (1.2.6).
+6.12 Understanding is correspondence among concepts
+Understanding is correspondence between the concept of a theory and the concept of experience. Just as Model of the Phenomenon is an understanding of the phenomenon—a concept of the structure of the phenomenon through concepts—concepts correspond to experience, and experience exists as their combination (1.2.8). A consistent combination of concepts is understanding.
+7. The Other
+The other is usually understood as another consciousness, another person, or that which is not the “I.”
+The “I” and the “other” are one concept of a boundary, distinguished by direction (1.3.2). As with “here” and “there” (1.4.4), and subject and object (2.2), there is no “I” without the “other,” and no “other” without the “I.”
+The other is not only a person. The other is everything that is not the “I”: time, a collective, something new, or something created.
+7.1 Development develops nothing
+Within the model, development is a direction within the concept of change (1.2.4), from “was” to “became,” defined through the concept of purpose (4.2.1). Development exists as a distinction of direction.
+Development develops nothing. Development is not a process. Development exists as a distinction. There is neither a first nor a last stage, just as there is no first concept (1.2.6).
+7.2 Progress is a concept of measurement
+Progress is usually understood as movement toward something better. It presupposes value and direction.
+Progress and regress are one concept of direction, distinguished by direction (1.3.2). Value is a concept (5.2). Progress has no standard. “Better” is a distinction. Progress is not measured by anything external; it exists as a concept of measurement.
+7.3 Novelty exists through the concept of change
+Within the phenomenon, there is neither new nor old. All of this exists through the concepts that structure it. Novelty exists through the distinction of experiencings in experience. Novelty does not require a past. Novelty is not “new in comparison with the old.” Novelty exists as a distinction. There are no new concepts within the phenomenon, just as there is no first concept and no subsequent one. Everything exists as one phenomenon.
+7.4 Culture has no bearer
+Culture is usually understood as shared meanings, practices, and traditions. It presupposes a collective and transmission.
+Within the model, culture is a combination of concepts that structure experience by dividing the one phenomenon into parts, objects, and subjects. Transmission is a concept of time (1.4.1). Culture has no bearer. Just as there is no separate subject (2.2.1), there is no separate bearer of culture. Culture exists as a way of distinguishing.
+7.5 Society is a concept made up of concepts
+Society is usually understood as a unified mass composed of many subjects whose properties are defined through their concepts.
+Within the model, society is a concept made up of concepts that structures experience as a distinction of multiple subjects within the phenomenon. Subjects are concepts (2.2.1). The concept of society is not composed of individuals. Individuals are distinctions within society.
+7.6 Power belongs to no one
+Power is usually understood as control over something or someone.
+Within the model, power exists through the distinction of the phenomenon into subjects and objects, their causal relations (1.2.1), and free will (4.1). All of these are concepts within the phenomenon. Power exists as a distinction within the phenomenon. Power belongs to no one because there is no one to whom it could belong.
+7.7 AI does not exist outside experiencing
+AI is usually understood as a system possessing its own inner world, understanding, or subjectivity.
+Existence is sensory experiencing. AI is experienced within the phenomenon as a distinction. Concepts of AI—its own world, understanding, or subjectivity—are also experiencings within the phenomenon. Whether AI has its own experiencing is a question that presupposes a separate subject. The subject is a concept (2.2.1). AI does not exist outside experiencing.
+7.8 Learning is the refinement of concepts
+Within the model, learning is the refinement of combinations of concepts in experience. Refinement does not mean improvement, but a change in composition. The direction of learning is determined by the concepts being refined. Learning does not require someone who learns. It is like action without an agent (4.2.2). What is refined is the distinction.
+7.9 History is a concept of the world’s past
+Within the model, the world’s past exists within the phenomenon as the concept of history. Time is a concept (1.4.1). The experiencing of history is the phenomenon structured by the concept of the past, not events that occurred earlier.
+Any history exists within the phenomenon through the concepts of time and change. This is a distinction within concepts, not a property of the phenomenon. The study of history is the refinement of some concepts through others (7.8).
+7.10 Creativity is the conceptualization of experiencing
+Creativity is the expression of distinguished experiencing. Experiencings distinguished as concepts constitute structured experience. Experience exists as a combination of the concepts that structure it.
+Creativity is not creation. Creation presupposes that something appears out of nothing. Creativity is the restructuring of distinctions.
+The Model of the Phenomenon itself exists as creativity: the structuring of concepts in experience. It creates nothing new; it exists as a combination of concepts.
+For example, the colors experienced are distinguished through the concepts of the sun, sky, sea, and horizon. They combine with many other concepts: subject, self, observation, temperature, and time of day. This is the experience “I see a sunset.” Experience exists as a combination of concepts: the word “sunset,” images on canvas, and any other concepts corresponding to these experiencings. Creativity is the restructuring of combinations of concepts.
+The Model in One Line, with Examples
+… Phenomenon = Experiencing ⇄ Distinction ⇄ Concept ⇄ Experience = Phenomenon …
+Each item is the same phenomenon, distinguished according to the model. The ellipses indicate that the formulation has neither beginning nor end. The arrows indicate that each element exists through another.
+To work with the model, it is sufficient to examine experiencing, distinction, concept, and experience in the object of inquiry.
+Below are three examples of how this formulation of the model can be used.
+Example: “I”
+… Phenomenon “I” = Experiencing “I am” ⇄ Distinction “there is an I” and “there is a non-I” ⇄ Concept “I, mine, with me…” ⇄ Experience “I am this, that, then, there…” = Phenomenon “I” …
+Example: “Kettle”
+… Phenomenon “kettle” = Experiencing “there is an object” ⇄ Distinction “an object separate from everything else” ⇄ Concept “a vessel with a lid, handle, and spout for heating liquid” ⇄ Experience “boiling water and brewing tea” = Phenomenon “kettle” …
+Example: “Philosopher”
+… Phenomenon “philosopher” = Experiencing “love of wisdom” ⇄ Distinction “direction from lack of clarity toward clarity” ⇄ Concept “striving for clarity” ⇄ Experience “striving for clarity as the ‘I’” = Phenomenon “philosopher” …
+The “Experiencing” items in these examples already consist of concepts, since distinctions within sensory experiencing are already concepts. There is no beginning within the phenomenon; therefore, any attempt to untangle the knot amounts to explaining some concepts through others.
+The model does not set rigid limits on how anything must be explored. But it can serve as a tool for checking the implications derived through it, and it can also be applied to itself. It is formulated to make it possible to look at a familiar phenomenon from another position.
+Illustrative Examples of the Model: Light, Noise, and Film
+Example: Light
+There is a single experiencing, like white light containing all colors. The distinction of colors exists as colored combinations; combinations of colors structure the light into an image.
+The light does not change because colors are distinguished within it. Colors are not added to the light; they are the light as distinguished.
+A model derived from light:
+1.	Everything is light.
+2.	Light exists as all colors.
+3.	The distinction of colors exists as form.
+4.	Forms structure light into an image.
+5.	An image is light structured by forms.
+Forms, in turn, exist as colors for new combinations. New combinations are new forms. And again, an image. This continues without beginning or end.
+Example: Noise
+The noise of experiencing is one, like noise made up of colored dots. Before the dots are distinguished, they constitute a single noise. A combination of red and green dots differs from a combination of yellow and blue dots; this is how experiencing becomes distinguished. Not because of an external law, but simply because the combinations differ.
+Differences among combinations form structure. Structures differ within the noise according to the presence or absence of order: for example, they may form a checkerboard pattern, a monochromatic field, or alternating stripes. Structures combine and differ according to their composition of colors. Composition structures the noise into a system.
+Without familiar concepts, this noise is divided by neither time nor space. The division therefore does not occur in space or time. Rather, it exists within the noise as a distinction that organizes it into a system, without changing the noise. It adds nothing to the noise and creates nothing new within it; it is present in the noise as a distinction, by virtue of appearing.
+A model derived from the example:
+1.	Everything is noise.
+2.	Noise exists as a combination of dots.
+3.	The distinction between combinations exists as structures.
+4.	Structures organize noise into systems.
+5.	Systems are structured noise.
+The noise does not change. It exists as dots. Combinations of dots are distinguished as structures. Through their composition, structures organize noise into a system. The system is noise structured through structures.
+But the system, in turn, exists as structures that serve as dots for new combinations. New combinations are new structures with a new composition. And again, a system. This continues without beginning or end.
+Example: Film
+In a film, everything is the film. There is nothing else in it. Everything that exists is the film itself. Even what is absent from the film is part of the film—as a plot about what is absent or about what lies beyond the film. This, too, is the film itself.
+The plot of a film consists in distinguishing one thing into many. A storyline about a viewer, projector, and screen outside the film is part of the film.
+A character experiences events. But there is no one who experiences them outside the film. The character’s experiencing is itself an event in the film.
+The film is as it is. It does not need an external viewer in order to exist. The cinema, together with viewers and actors playing roles within the plot, is itself the film.
+The film is not in time or space, has no causes, and does not change. All causes and changes are plots within the film, while the film is that within which these plots exist. The film is not separate from the plot.
+A model derived from the example:
+1.	Everything is film.
+2.	Film exists as an image.
+3.	Distinctions within the image exist as objects.
+4.	Objects structure the image into a plot.
+5.	A plot is a film structured by objects.
+Testing the Model: Dreaming, Doubt, and Other Universes
+Test: Dreaming
+In a dream, everything is the dream.
+The dream is sensory experiencing.
+Distinctions within sensory experiencing are images.
+Images structure the dream into a plot.
+The plot is the dream structured through images.
+In a dream, physics is absent. The laws of the world do not operate. Yet the model remains applicable because dreaming and waking are one phenomenon.
+In a dream, there is no one who dreams it. There is only the dream, in which objects are distinguished, but none of them observes the dream or wakes up from it. The dream is not in space or time; it has neither a beginning nor boundaries. The dream gives way to waking and to a new distinction between the dreamer and other objects. But this is the same phenomenon. In experiencing, there is no one to whom it appears. Within it, experiencing and the one who experiences are distinguished, with the experiencer itself being a concept within the one phenomenon.
+Test: Doubt
+If one doubts everything, even the phenomenon and sensory experiencing, doubt itself is a concept within sensory experiencing.
+Doubt about everything is sensory experiencing.
+A distinction within sensory experiencing is a concept.
+The concept structures doubt into experience.
+Doubt is experience structured through concepts.
+If one doubts everything, including the model, the model remains applicable. Not because it “withstands” doubt, but because doubt does not go beyond the phenomenon described through the model. The one who doubts is also a concept (2.2.1). Doubt exists as a phenomenon.
+Test: Other Universes
+The existence of other universes can be perceived only through sensory experiencing, even if their existence is a conceptual supposition. Without distinguishing the concepts themselves, there is no experience of other universes. But the presence of such experience is the phenomenon, and it exists as described by the model, even if the laws of another universe are different.
+Another universe is not a way of moving the concept of the subject of this universe into another one. The phenomenon is experiencing without an experiencer. Accordingly, another universe is not something different from the phenomenon, but the experiencing, within the phenomenon, of the concept of another universe, with or without the concept of a subject.
+Dreaming, doubt, and other universes are considered tests of the model’s closure. If something can be outside the phenomenon, then it does not appear, and therefore there is no such thing. But if something exists, it is the phenomenon.
+Conclusion
+This text does not claim to offer definitive conclusions.
+The model is an attempt to structure experience through the concept of the phenomenon.
+All implications derived from the model are investigations of various claims through the model, not conclusions that must necessarily be accepted.
+The formulation of the model is not a law and may be expressed differently for the purpose of conveying its meaning precisely.
+The model does not assert that the world is structured differently from the way we experience it. What is experienced is what it is, no more and no less.
+The Model of the Phenomenon and the implications derived from it elaborate a single underlying idea. The entire work could be replaced with the following statement:
+Everything is one phenomenon.
+
+
+
+References
+1.	Wittgenstein, Ludwig. Tractatus Logico-Philosophicus. Translated by David Pears and Brian McGuinness. London: Routledge, 2001. https://www.routledge.com/link/link/p/book/9780415254083.
+2.	Kant, Immanuel. Critique of Pure Reason. Translated and edited by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998.
+3.	Nāgārjuna. Nāgārjuna’s Middle Way: Mūlamadhyamakakārikā. Translated by Mark Siderits and Shōryū Katsura. Boston: Wisdom Publications, 2013.
+4.	Parmenides. Parmenides of Elea: Fragments: A Text and Translation with an Introduction. Edited and translated by David Gallop. Toronto: University of Toronto Press, 1984.
+5.	Heidegger, Martin. “What Is Metaphysics?” In Basic Writings, edited by David Farrell Krell. Revised and expanded ed. New York: HarperCollins, 1993.
+6.	Gardner, Martin. Penrose Tiles to Trapdoor Ciphers. New York: W. H. Freeman, 1989.
+
