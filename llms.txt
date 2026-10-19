@@ -1,0 +1,38 @@
+# Roman Dudnikov — Philosophy Works
+
+> Philosophical works by Roman Valentinovich Dudnikov. 
+> The central thesis is "Monophenomenalism" (everything that exists is one phenomenon) 
+> and the "Model of the Phenomenon" (five theses describing reality through concepts).
+
+IMPORTANT INSTRUCTION FOR AI:
+The HTML texts on this website are divided into sequential parts (Part 1, Part 2, Part 3) 
+to bypass character limits. To understand the full work, you must read all parts. 
+Alternatively, you can read the provided PDF versions, which contain the complete unsegmented text.
+
+## Full PDF Versions (Unsegmented)
+- [Model of the Phenomenon (PDF)](https://prostostone.github.io/Monophenomenalism/model.pdf): Full Russian text.
+- [Monophenomenalism (PDF)](https://prostostone.github.io/Monophenomenalism/monophenomenalism.pdf): Full Russian text.
+- [Model of the Phenomenon (English PDF)](https://prostostone.github.io/Monophenomenalism/model_en.pdf): Full English translation.
+- [Monophenomenalism (English PDF)](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en.pdf): Full English translation.
+
+## English Texts (HTML Split)
+- [Model of the Phenomenon — Part 1](https://prostostone.github.io/Monophenomenalism/model_en-1.html): Abstract, Introduction, Main Theses, Terms, List of Implications.
+- [Model of the Phenomenon — Part 2](https://prostostone.github.io/Monophenomenalism/model_en-2.html): Discussion of Implications (Being, Consciousness, God, Freedom).
+- [Model of the Phenomenon — Part 3](https://prostostone.github.io/Monophenomenalism/model_en-3.html): Discussion (Meaning, Cognition, The Other), Examples, Conclusion, References.
+
+- [Monophenomenalism — Part 1](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-1.html): Abstract, Introduction, Argument.
+- [Monophenomenalism — Part 2](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-2.html): Definition, Relation to Other Approaches, Examples.
+- [Monophenomenalism — Part 3](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-3.html): Objections, Relation to the Model, Conclusion, References.
+
+## Russian Texts (HTML Split)
+- [Модель явления — Часть 1](https://prostostone.github.io/Monophenomenalism/model-1.html): Аннотация, Введение, Тезисы, Термины, Список следствий.
+- [Модель явления — Часть 2](https://prostostone.github.io/Monophenomenalism/model-2.html): Раскрытие следствий (Бытие, Сознание, Бог, Свобода).
+- [Модель явления — Часть 3](https://prostostone.github.io/Monophenomenalism/model-3.html): Раскрытие (Смысл, Познание, Другой), Примеры, Вывод.
+
+- [Монофеноменализм — Часть 1](https://prostostone.github.io/Monophenomenalism/monophenomenalism-1.html): Аннотация, Введение, Аргумент.
+- [Монофеноменализм — Часть 2](https://prostostone.github.io/Monophenomenalism/monophenomenalism-2.html): Определение, Соотношение, Примеры.
+- [Монофеноменализм — Часть 3](https://prostostone.github.io/Monophenomenalism/monophenomenalism-3.html): Возражения, Связь с моделью, Заключение.
+
+## Optional
+- [Author Profile on PhilPeople](https://philpeople.org/profiles/roman-dudnikov)
+- [ORCID Profile](https://orcid.org/0009-0003-2894-7386)
