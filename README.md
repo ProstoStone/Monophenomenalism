@@ -127,7 +127,7 @@
   <div class="card-title-en">Model of the Phenomenon</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="model.html">Читать</a>
+    <a class="btn btn-read" href="model-1.html">Читать</a>
     <a class="btn btn-download" href="model.pdf" download>Скачать</a>
   </div>
 </div>
