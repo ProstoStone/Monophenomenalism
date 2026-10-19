@@ -161,7 +161,7 @@
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
     <a class="btn btn-read" href="monophenomenalism_en.html">Read</a>
-    <a class="btn btn-download" href="monophenomenalism_en.pdf" download>Download</a>
+    <a class="btn btn-download" href="Monophenomenalism. English Translation. Draft v1.pdf" download>Download</a>
   </div>
 </div>
 
