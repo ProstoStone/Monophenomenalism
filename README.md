@@ -137,7 +137,7 @@
   <div class="card-title-en">Monophenomenalism</div>
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="monophenomenalism.html">Читать</a>
+    <a class="btn btn-read" href="monophenomenalism-1.html">Читать</a>
     <a class="btn btn-download" href="monophenomenalism.pdf" download>Скачать</a>
   </div>
 </div>
