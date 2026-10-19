@@ -128,7 +128,7 @@
   <div class="card-author">Дудников Роман Валентинович · 2026</div>
   <div class="actions">
     <a class="btn btn-read" href="model.html">Читать</a>
-    <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Скачать</a>
+    <a class="btn btn-download" href="model.pdf" download>Скачать</a>
   </div>
 </div>
 
@@ -151,7 +151,7 @@
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
     <a class="btn btn-read" href="model_en.html">Read</a>
-    <a class="btn btn-download" href="model_en.pdf" download>Download</a>
+    <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Download</a>
   </div>
 </div>
 
