@@ -150,7 +150,7 @@
   <div class="card-title-en">Модель явления</div>
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="model_en.html">Read</a>
+    <a class="btn btn-read" href="model_en-1.html">Read</a>
     <a class="btn btn-download" href="Model of the Phenomenon. English Translation. Draft v2.pdf" download>Download</a>
   </div>
 </div>
@@ -160,7 +160,7 @@
   <div class="card-title-en">Монофеноменализм</div>
   <div class="card-author">Roman Dudnikov · 2026</div>
   <div class="actions">
-    <a class="btn btn-read" href="monophenomenalism_en.html">Read</a>
+    <a class="btn btn-read" href="monophenomenalism_en-1.html">Read</a>
     <a class="btn btn-download" href="Monophenomenalism. English Translation. Draft v1.pdf" download>Download</a>
   </div>
 </div>
