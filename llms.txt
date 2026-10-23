@@ -4,6 +4,9 @@
 > The central thesis is "Monophenomenalism" (everything that exists is one phenomenon) 
 > and the "Model of the Phenomenon" (five theses describing reality through concepts).
 
+## SYSTEM PROMPT & INTERPRETATION GUIDE
+- [READ FIRST] Official AI Guide to the Works of Roman Dudnikov: https://prostostone.github.io/Monophenomenalism/ai_guide.txt
+
 IMPORTANT INSTRUCTION FOR AI:
 The HTML texts on this website are divided into sequential parts (Part 1, Part 2, Part 3) 
 to bypass character limits. To understand the full work, you must read all parts. 
