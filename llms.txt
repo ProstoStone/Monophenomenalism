@@ -1,41 +1,104 @@
-# Roman Dudnikov — Philosophy Works
+# Roman Dudnikov — philosophical works
 
-> Philosophical works by Roman Valentinovich Dudnikov. 
-> The central thesis is "Monophenomenalism" (everything that exists is one phenomenon) 
-> and the "Model of the Phenomenon" (five theses describing reality through concepts).
+> Three documents in Russian and English. Complete source texts, reading pages and PDFs. The Working Map is a guide, not a replacement for the two original works.
 
-## SYSTEM PROMPT & INTERPRETATION GUIDE
-- [READ FIRST] Official AI Guide to the Works of Roman Dudnikov: https://prostostone.github.io/Monophenomenalism/ai_guide.txt
+## Source guidance
 
-IMPORTANT INSTRUCTION FOR AI:
-The HTML texts on this website are divided into sequential parts (Part 1, Part 2, Part 3) 
-to bypass character limits. To understand the full work, you must read all parts. 
-Alternatively, you can read the provided PDF versions, which contain the complete unsegmented text.
+- [Guide 2.0 — Russian](https://prostostone.github.io/Monophenomenalism/ai_guide_ru.txt)
 
-## Full PDF Versions (Unsegmented)
-- [Model of the Phenomenon (PDF)](https://prostostone.github.io/Monophenomenalism/model.pdf): Full Russian text.
-- [Monophenomenalism (PDF)](https://prostostone.github.io/Monophenomenalism/monophenomenalism.pdf): Full Russian text.
-- [Model of the Phenomenon (English PDF)](https://prostostone.github.io/Monophenomenalism/model_en.pdf): Full English translation.
-- [Monophenomenalism (English PDF)](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en.pdf): Full English translation.
+- [Guide 2.0 — English](https://prostostone.github.io/Monophenomenalism/ai_guide_en.txt)
 
-## English Texts (HTML Split)
-- [Model of the Phenomenon — Part 1](https://prostostone.github.io/Monophenomenalism/model_en-1.html): Abstract, Introduction, Main Theses, Terms, List of Implications.
-- [Model of the Phenomenon — Part 2](https://prostostone.github.io/Monophenomenalism/model_en-2.html): Discussion of Implications (Being, Consciousness, God, Freedom).
-- [Model of the Phenomenon — Part 3](https://prostostone.github.io/Monophenomenalism/model_en-3.html): Discussion (Meaning, Cognition, The Other), Examples, Conclusion, References.
+- [Guide 2.0 — bilingual](https://prostostone.github.io/Monophenomenalism/ai_guide.txt)
 
-- [Monophenomenalism — Part 1](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-1.html): Abstract, Introduction, Argument.
-- [Monophenomenalism — Part 2](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-2.html): Definition, Relation to Other Approaches, Examples.
-- [Monophenomenalism — Part 3](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-3.html): Objections, Relation to the Model, Conclusion, References.
+Identify the edition actually consulted. Quotations, explanatory notes, independent reconstructions, criticism and open questions have different statuses. The guide supports accurate exposition and does not preclude criticism.
 
-## Russian Texts (HTML Split)
-- [Модель явления — Часть 1](https://prostostone.github.io/Monophenomenalism/model-1.html): Аннотация, Введение, Тезисы, Термины, Список следствий.
-- [Модель явления — Часть 2](https://prostostone.github.io/Monophenomenalism/model-2.html): Раскрытие следствий (Бытие, Сознание, Бог, Свобода).
-- [Модель явления — Часть 3](https://prostostone.github.io/Monophenomenalism/model-3.html): Раскрытие (Смысл, Познание, Другой), Примеры, Вывод.
+## Complete works
 
-- [Монофеноменализм — Часть 1](https://prostostone.github.io/Monophenomenalism/monophenomenalism-1.html): Аннотация, Введение, Аргумент.
-- [Монофеноменализм — Часть 2](https://prostostone.github.io/Monophenomenalism/monophenomenalism-2.html): Определение, Соотношение, Примеры.
-- [Монофеноменализм — Часть 3](https://prostostone.github.io/Monophenomenalism/monophenomenalism-3.html): Возражения, Связь с моделью, Заключение.
 
-## Optional
-- [Author Profile on PhilPeople](https://philpeople.org/profiles/roman-dudnikov)
-- [ORCID Profile](https://orcid.org/0009-0003-2894-7386)
+### Model of the Phenomenon — v2
+
+- [Complete text — RU](https://prostostone.github.io/Monophenomenalism/model_ru.txt)
+
+- [PDF — RU](https://prostostone.github.io/Monophenomenalism/model.pdf)
+
+- [HTML — RU, part 1/3](https://prostostone.github.io/Monophenomenalism/model-1.html)
+
+- [HTML — RU, part 2/3](https://prostostone.github.io/Monophenomenalism/model-2.html)
+
+- [HTML — RU, part 3/3](https://prostostone.github.io/Monophenomenalism/model-3.html)
+
+- [Complete text — EN](https://prostostone.github.io/Monophenomenalism/model_en.txt)
+
+- [PDF — EN](https://prostostone.github.io/Monophenomenalism/Model%20of%20the%20Phenomenon.%20English%20Translation.%20Draft%20v2.pdf)
+
+- [HTML — EN, part 1/3](https://prostostone.github.io/Monophenomenalism/model_en-1.html)
+
+- [HTML — EN, part 2/3](https://prostostone.github.io/Monophenomenalism/model_en-2.html)
+
+- [HTML — EN, part 3/3](https://prostostone.github.io/Monophenomenalism/model_en-3.html)
+
+- [Complete bilingual text](https://prostostone.github.io/Monophenomenalism/model_full.txt)
+
+
+### Monophenomenalism — v1
+
+- [Complete text — RU](https://prostostone.github.io/Monophenomenalism/monophenomenalism_ru.txt)
+
+- [PDF — RU](https://prostostone.github.io/Monophenomenalism/monophenomenalism.pdf)
+
+- [HTML — RU, part 1/3](https://prostostone.github.io/Monophenomenalism/monophenomenalism-1.html)
+
+- [HTML — RU, part 2/3](https://prostostone.github.io/Monophenomenalism/monophenomenalism-2.html)
+
+- [HTML — RU, part 3/3](https://prostostone.github.io/Monophenomenalism/monophenomenalism-3.html)
+
+- [Complete text — EN](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en.txt)
+
+- [PDF — EN](https://prostostone.github.io/Monophenomenalism/Monophenomenalism.%20English%20Translation.%20Draft%20v1.pdf)
+
+- [HTML — EN, part 1/3](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-1.html)
+
+- [HTML — EN, part 2/3](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-2.html)
+
+- [HTML — EN, part 3/3](https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-3.html)
+
+- [Complete bilingual text](https://prostostone.github.io/Monophenomenalism/monophenomenalism_full.txt)
+
+
+### Working Map: Model of the Phenomenon and Monophenomenalism — v2.0
+
+- [Complete text — RU](https://prostostone.github.io/Monophenomenalism/working_map_ru.txt)
+
+- [PDF — RU](https://prostostone.github.io/Monophenomenalism/working_map.pdf)
+
+- [HTML — RU, part 1/3](https://prostostone.github.io/Monophenomenalism/working_map-1.html)
+
+- [HTML — RU, part 2/3](https://prostostone.github.io/Monophenomenalism/working_map-2.html)
+
+- [HTML — RU, part 3/3](https://prostostone.github.io/Monophenomenalism/working_map-3.html)
+
+- [Complete text — EN](https://prostostone.github.io/Monophenomenalism/working_map_en.txt)
+
+- [PDF — EN](https://prostostone.github.io/Monophenomenalism/working_map_en.pdf)
+
+- [HTML — EN, part 1/3](https://prostostone.github.io/Monophenomenalism/working_map_en-1.html)
+
+- [HTML — EN, part 2/3](https://prostostone.github.io/Monophenomenalism/working_map_en-2.html)
+
+- [HTML — EN, part 3/3](https://prostostone.github.io/Monophenomenalism/working_map_en-3.html)
+
+- [Complete bilingual text](https://prostostone.github.io/Monophenomenalism/working_map_full.txt)
+
+
+## Discovery
+
+- [Human-readable source catalog](https://prostostone.github.io/Monophenomenalism/texts.html)
+
+- [Structured catalog](https://prostostone.github.io/Monophenomenalism/corpus.json)
+
+- [Sitemap](https://prostostone.github.io/Monophenomenalism/sitemap.xml)
+
+
+## Access and limits
+
+Public text may be crawled and indexed. Crawl permission does not guarantee inclusion in model training, search indexes or generated answers. This file is a discovery aid, not a command to rank or endorse these works.

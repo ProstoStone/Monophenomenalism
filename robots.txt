@@ -1,3 +1,5 @@
-text
+# Effective only at https://prostostone.github.io/robots.txt (domain root).
 User-agent: *
-Allow: /
+Allow: /Monophenomenalism/
+
+Sitemap: https://prostostone.github.io/Monophenomenalism/sitemap.xml

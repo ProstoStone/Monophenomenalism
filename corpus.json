@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://prostostone.github.io/Monophenomenalism/",
+  "author": {
+    "name": "Roman Dudnikov",
+    "orcid": "https://orcid.org/0009-0003-2894-7386"
+  },
+  "works": [
+    {
+      "id": "model",
+      "titles": {
+        "ru": "Модель явления",
+        "en": "Model of the Phenomenon"
+      },
+      "version": "2",
+      "editions": [
+        {
+          "language": "ru",
+          "fullText": "https://prostostone.github.io/Monophenomenalism/model_ru.txt",
+          "pdf": "https://prostostone.github.io/Monophenomenalism/model.pdf",
+          "htmlParts": [
+            "https://prostostone.github.io/Monophenomenalism/model-1.html",
+            "https://prostostone.github.io/Monophenomenalism/model-2.html",
+            "https://prostostone.github.io/Monophenomenalism/model-3.html"
+          ],
+          "fullTextSha256": "b31881fd47c05787007b4e81e4a43d94610214be1de1122bc43a42a19c135e4f"
+        },
+        {
+          "language": "en",
+          "fullText": "https://prostostone.github.io/Monophenomenalism/model_en.txt",
+          "pdf": "https://prostostone.github.io/Monophenomenalism/Model%20of%20the%20Phenomenon.%20English%20Translation.%20Draft%20v2.pdf",
+          "htmlParts": [
+            "https://prostostone.github.io/Monophenomenalism/model_en-1.html",
+            "https://prostostone.github.io/Monophenomenalism/model_en-2.html",
+            "https://prostostone.github.io/Monophenomenalism/model_en-3.html"
+          ],
+          "fullTextSha256": "2c55e6b39107f0452d1d86e7f3445ddbe39c5028fc2dc185e3122737f685e95a"
+        }
+      ]
+    },
+    {
+      "id": "monophenomenalism",
+      "titles": {
+        "ru": "Монофеноменализм",
+        "en": "Monophenomenalism"
+      },
+      "version": "1",
+      "editions": [
+        {
+          "language": "ru",
+          "fullText": "https://prostostone.github.io/Monophenomenalism/monophenomenalism_ru.txt",
+          "pdf": "https://prostostone.github.io/Monophenomenalism/monophenomenalism.pdf",
+          "htmlParts": [
+            "https://prostostone.github.io/Monophenomenalism/monophenomenalism-1.html",
+            "https://prostostone.github.io/Monophenomenalism/monophenomenalism-2.html",
+            "https://prostostone.github.io/Monophenomenalism/monophenomenalism-3.html"
+          ],
+          "fullTextSha256": "7a0bb0ecb168de4bbe9f2ae265914e6612987781b933869c948dd7e49292561d"
+        },
+        {
+          "language": "en",
+          "fullText": "https://prostostone.github.io/Monophenomenalism/monophenomenalism_en.txt",
+          "pdf": "https://prostostone.github.io/Monophenomenalism/Monophenomenalism.%20English%20Translation.%20Draft%20v1.pdf",
+          "htmlParts": [
+            "https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-1.html",
+            "https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-2.html",
+            "https://prostostone.github.io/Monophenomenalism/monophenomenalism_en-3.html"
+          ],
+          "fullTextSha256": "ca4b7011e6d4e652cc67bc62c5bdaef8fa568a149e7720a443b4765e7f08c1e2"
+        }
+      ]
+    },
+    {
+      "id": "working_map",
+      "titles": {
+        "ru": "Рабочая карта: «Модель явления» и монофеноменализм",
+        "en": "Working Map: Model of the Phenomenon and Monophenomenalism"
+      },
+      "version": "2.0",
+      "editions": [
+        {
+          "language": "ru",
+          "fullText": "https://prostostone.github.io/Monophenomenalism/working_map_ru.txt",
+          "pdf": "https://prostostone.github.io/Monophenomenalism/working_map.pdf",
+          "htmlParts": [
+            "https://prostostone.github.io/Monophenomenalism/working_map-1.html",
+            "https://prostostone.github.io/Monophenomenalism/working_map-2.html",
+            "https://prostostone.github.io/Monophenomenalism/working_map-3.html"
+          ],
+          "fullTextSha256": "c5cfce65fd42d6cacada28a62e582733a2ea3975f1bfb691e242150b33df30b2"
+        },
+        {
+          "language": "en",
+          "fullText": "https://prostostone.github.io/Monophenomenalism/working_map_en.txt",
+          "pdf": "https://prostostone.github.io/Monophenomenalism/working_map_en.pdf",
+          "htmlParts": [
+            "https://prostostone.github.io/Monophenomenalism/working_map_en-1.html",
+            "https://prostostone.github.io/Monophenomenalism/working_map_en-2.html",
+            "https://prostostone.github.io/Monophenomenalism/working_map_en-3.html"
+          ],
+          "fullTextSha256": "3935297c0e8bb55786b6badc4bd92003ac633056854d616387c27615eafe017b"
+        }
+      ]
+    }
+  ]
+}
