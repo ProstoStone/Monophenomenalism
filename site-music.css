@@ -1,4 +1,5 @@
 .site-music { --music-bg: #fff; --music-fg: #444; --music-muted: #666; --music-border: #d6d6d6; --music-hover: #f4f4f4; position: relative; display: inline-flex; flex: 0 0 auto; font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--music-fg); }
+.reading-toolbar .site-music { margin-left: auto; }
 .site-music-row { display: flex; justify-content: flex-end; width: 100%; margin-bottom: 18px; }
 .site-music-row.music-home { max-width: 520px; }
 .music-home .site-music, html[data-theme="dark"] .site-music { --music-bg: #202325; --music-fg: #e4e1dc; --music-muted: #b5b2ad; --music-border: #50565a; --music-hover: #303639; color-scheme: dark; }
