@@ -1,5 +1,8 @@
 (function () {
   'use strict';
+  // Temporarily hidden at the site owner's request; keep the player for later.
+  var musicEnabled = false;
+  if (!musicEnabled) return;
   if (document.querySelector('.site-music')) return;
   var ru = document.documentElement.lang !== 'en';
   var labels = ru ? {
