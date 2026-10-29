@@ -1,0 +1,19 @@
+.site-music { --music-bg: #fff; --music-fg: #444; --music-muted: #666; --music-border: #d6d6d6; --music-hover: #f4f4f4; position: relative; display: inline-flex; flex: 0 0 auto; font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: var(--music-fg); }
+.site-music-row { display: flex; justify-content: flex-end; width: 100%; margin-bottom: 18px; }
+.site-music-row.music-home { max-width: 520px; }
+.music-home .site-music, html[data-theme="dark"] .site-music { --music-bg: #202325; --music-fg: #e4e1dc; --music-muted: #b5b2ad; --music-border: #50565a; --music-hover: #303639; color-scheme: dark; }
+.site-music *, .site-music *::before, .site-music *::after { box-sizing: border-box; }
+.site-music button { appearance: none; min-height: 44px; padding: 8px 12px; border: 1px solid var(--music-border); background: var(--music-bg); color: var(--music-fg); font: inherit; cursor: pointer; }
+.site-music button:hover { background: var(--music-hover); }
+.site-music button:focus-visible, .site-music select:focus-visible, .site-music input:focus-visible, .site-music a:focus-visible { outline: 2px solid #6499c9; outline-offset: 3px; }
+.site-music .music-play { border-radius: 4px 0 0 4px; }
+.site-music .music-menu { border-left: 0; border-radius: 0 4px 4px 0; min-width: 36px; padding: 8px; }
+.site-music .music-panel { position: absolute; z-index: 20; top: calc(100% + 8px); right: 0; width: min(300px, calc(100vw - 48px)); padding: 16px; background: var(--music-bg); color: var(--music-fg); border: 1px solid var(--music-border); border-radius: 6px; box-shadow: 0 6px 20px #0002; text-align: left; }
+.site-music [hidden] { display: none !important; }
+.site-music label { display: block; margin: 0 0 6px; }
+.site-music select { display: block; width: 100%; min-height: 44px; background: var(--music-bg); color: var(--music-fg); border: 1px solid var(--music-border); border-radius: 4px; font: inherit; padding: 6px; margin-bottom: 14px; }
+.site-music input[type="range"] { width: 100%; margin: 0; min-height: 32px; accent-color: #6f8fa8; }
+.site-music .music-status { font-size: 12px; color: var(--music-muted); margin: 10px 0; }
+.site-music .music-credit { font-size: 11px; color: var(--music-muted); }
+.site-music a, html[data-theme="dark"] .site-music a { color: inherit; text-underline-offset: 2px; }
+@media print { .site-music, .site-music-row { display: none !important; } }
